@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  20 FEB 2020 00:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  21 FEB 2020 00:42
 entering extended mode
 **./document.tex
 (document.tex
@@ -555,14 +555,32 @@ Overfull \hbox (14.91814pt too wide) in paragraph at lines 173--174
 слов ве-ро-ят-но-сти на-зы-ва-ют-ся \T2A/cmr/m/it/12 Language
  []
 
-[6 <./MED.PNG>] [7] [8] [9] [10
+[6 <./MED.PNG>] [7] [8] [9]
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 299.
+
+Missing character: There is no с in font cmr12!
+[10]
+<NaiveBayes.PNG, id=57, 443.40656pt x 264.23718pt>
+File: NaiveBayes.PNG Graphic file (type png)
+<use NaiveBayes.PNG>
+Package pdftex.def Info: NaiveBayes.PNG  used on input line 363.
+(pdftex.def)             Requested size: 399.06221pt x 237.81125pt.
+ [11 <./NaiveBayes.PNG>]
+Overfull \hbox (16.27745pt too wide) in paragraph at lines 373--374
+[]\T2A/cmr/m/n/12 Эта идея \T2A/cmr/m/it/12 Бай-е-сов-ско-го вы-во-да \T2A/cmr/
+m/n/12 бы-ла из-вест-на с мо-мен-та пуб-ли-ка-ции ра-бо-ты Бай-е-са (1763)[10],
+
+ []
+
+[12] [13
 
 ] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 4310 strings out of 492482
- 53186 string characters out of 3131019
- 136012 words of memory out of 3000000
- 8573 multiletter control sequences out of 15000+200000
+ 4318 strings out of 492482
+ 53297 string characters out of 3131019
+ 136020 words of memory out of 3000000
+ 8580 multiletter control sequences out of 15000+200000
  19005 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,7n,31p,1132b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -577,14 +595,17 @@ afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk>
 x1200.pk> <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/
 dpi600\labx2488.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on document.pdf (10 pages, 327579 bytes).
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy8.pfb>
+Output written on document.pdf (13 pages, 438154 bytes).
 PDF statistics:
- 444 PDF objects out of 1000 (max. 8388607)
+ 495 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
