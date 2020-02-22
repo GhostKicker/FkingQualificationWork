@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  21 FEB 2020 00:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  22 FEB 2020 21:07
 entering extended mode
 **./document.tex
 (document.tex
@@ -282,6 +282,29 @@ LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 ("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\captionmargin=\dimen104
+\captionmargin@=\dimen105
+\captionwidth=\dimen106
+\caption@tempdima=\dimen107
+\caption@indent=\dimen108
+\caption@parindent=\dimen109
+\caption@hangindent=\dimen110
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count91
+\c@continuedfloat=\count92
+)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
 Package: amsmath 2019/11/16 v2.17d AMS math features
 \@mathmargin=\skip43
@@ -292,58 +315,58 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks14
-\ex@=\dimen104
+\@emptytoks=\toks15
+\ex@=\dimen111
 ))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen105
+\pmbraise@=\dimen112
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count91
+\inf@bad=\count93
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count92
-\leftroot@=\count93
+\uproot@=\count94
+\leftroot@=\count95
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count94
-\DOTSCASE@=\count95
+\classnum@=\count96
+\DOTSCASE@=\count97
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
 \Mathstrutbox@=\box27
 \strutbox@=\box28
-\big@size=\dimen106
+\big@size=\dimen113
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count96
-\c@MaxMatrixCols=\count97
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
 \dotsspace@=\muskip10
-\c@parentequation=\count98
-\dspbrk@lvl=\count99
-\tag@help=\toks15
-\row@=\count100
-\column@=\count101
-\maxfields@=\count102
-\andhelp@=\toks16
-\eqnshift@=\dimen107
-\alignsep@=\dimen108
-\tagshift@=\dimen109
-\tagwidth@=\dimen110
-\totwidth@=\dimen111
-\lineht@=\dimen112
-\@envbody=\toks17
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks16
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks17
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks18
 \multlinegap=\skip44
 \multlinetaggap=\skip45
-\mathdisplay@stack=\toks18
+\mathdisplay@stack=\toks19
 LaTeX Info: Redefining \[ on input line 2858.
 LaTeX Info: Redefining \] on input line 2859.
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks19
-\inpenc@posthook=\toks20
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\koi8-r.def"
 File: koi8-r.def 2014/10/28 v1.0d Input encoding file
@@ -370,23 +393,19 @@ Package: cite 2015/02/27  v 5.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks21
+\@enLab=\toks22
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count103
-\float@exts=\toks22
+\c@float@type=\count105
+\float@exts=\toks23
 \float@box=\box29
-\@float@everytoks=\toks23
+\@float@everytoks=\toks24
 \@floatcapt=\box30
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
-)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
 Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
 
@@ -401,8 +420,8 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen113
-\Gin@req@width=\dimen114
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
@@ -416,48 +435,56 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
 Package: iftex 2019/11/07 v1.0c TeX engine tests
 ))
-\Gm@cnth=\count104
-\Gm@cntv=\count105
-\c@Gm@tempcnt=\count106
-\Gm@bindingoffset=\dimen115
-\Gm@wd@mp=\dimen116
-\Gm@odd@mp=\dimen117
-\Gm@even@mp=\dimen118
-\Gm@layoutwidth=\dimen119
-\Gm@layoutheight=\dimen120
-\Gm@layouthoffset=\dimen121
-\Gm@layoutvoffset=\dimen122
+\Gm@cnth=\count106
+\Gm@cntv=\count107
+\c@Gm@tempcnt=\count108
+\Gm@bindingoffset=\dimen122
+\Gm@wd@mp=\dimen123
+\Gm@odd@mp=\dimen124
+\Gm@even@mp=\dimen125
+\Gm@layoutwidth=\dimen126
+\Gm@layoutheight=\dimen127
+\Gm@layouthoffset=\dimen128
+\Gm@layoutvoffset=\dimen129
 \Gm@dimlist=\toks25
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg")) (document.aux)
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+
+LaTeX Warning: Unused global option(s):
+    [preview].
+
+(document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count107
-\scratchdimen=\dimen123
+\scratchcounter=\count109
+\scratchdimen=\dimen130
 \scratchbox=\box31
-\nofMPsegments=\count108
-\nofMParguments=\count109
+\nofMPsegments=\count110
+\nofMParguments=\count111
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count110
-\MPscratchDim=\dimen124
-\MPnumerator=\count111
-\makeMPintoPDFobject=\count112
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen131
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
 \everyMPtoPDFconversion=\toks27
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
@@ -526,64 +553,209 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <regex.png, id=17, 1487.5575pt x 901.3675pt>
 File: regex.png Graphic file (type png)
 <use regex.png>
-Package pdftex.def Info: regex.png  used on input line 66.
+Package pdftex.def Info: regex.png  used on input line 67.
 (pdftex.def)             Requested size: 297.50623pt x 180.2703pt.
  [4 <./regex.png (PNG copy)>]
 <bpe.png, id=21, 470.75874pt x 143.53625pt>
 File: bpe.png Graphic file (type png)
 <use bpe.png>
-Package pdftex.def Info: bpe.png  used on input line 118.
+Package pdftex.def Info: bpe.png  used on input line 119.
 (pdftex.def)             Requested size: 376.60751pt x 114.82915pt.
  [5 <./bpe.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
 <MED.PNG, id=26, 658.71094pt x 151.3153pt>
 File: MED.PNG Graphic file (type png)
 <use MED.PNG>
-Package pdftex.def Info: MED.PNG  used on input line 168.
+Package pdftex.def Info: MED.PNG  used on input line 169.
 (pdftex.def)             Requested size: 526.96945pt x 121.0524pt.
 
-Overfull \hbox (29.0462pt too wide) in paragraph at lines 168--169
+Overfull \hbox (29.0462pt too wide) in paragraph at lines 169--170
  [] 
  []
 
 
-Overfull \hbox (14.91814pt too wide) in paragraph at lines 173--174
+Overfull \hbox (14.91814pt too wide) in paragraph at lines 174--175
 []\T2A/cmr/m/n/12 Модели, ко-то-рые со-по-став-ля-ют по-сле-до-ва-тель-но-стям 
 слов ве-ро-ят-но-сти на-зы-ва-ют-ся \T2A/cmr/m/it/12 Language
  []
 
 [6 <./MED.PNG>] [7] [8] [9]
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 299.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 304.
 
 Missing character: There is no с in font cmr12!
 [10]
 <NaiveBayes.PNG, id=57, 443.40656pt x 264.23718pt>
 File: NaiveBayes.PNG Graphic file (type png)
 <use NaiveBayes.PNG>
-Package pdftex.def Info: NaiveBayes.PNG  used on input line 363.
+Package pdftex.def Info: NaiveBayes.PNG  used on input line 368.
 (pdftex.def)             Requested size: 399.06221pt x 237.81125pt.
  [11 <./NaiveBayes.PNG>]
-Overfull \hbox (16.27745pt too wide) in paragraph at lines 373--374
+Overfull \hbox (16.27745pt too wide) in paragraph at lines 378--379
 []\T2A/cmr/m/n/12 Эта идея \T2A/cmr/m/it/12 Бай-е-сов-ско-го вы-во-да \T2A/cmr/
 m/n/12 бы-ла из-вест-на с мо-мен-та пуб-ли-ка-ции ра-бо-ты Бай-е-са (1763)[10],
 
  []
 
-[12] [13
+[12]
+<conttable.PNG, id=65, 371.88937pt x 134.75343pt>
+File: conttable.PNG Graphic file (type png)
+<use conttable.PNG>
+Package pdftex.def Info: conttable.PNG  used on input line 456.
+(pdftex.def)             Requested size: 334.69734pt x 121.27696pt.
+ [13 <./conttable.PNG>]
+<confmatrix.PNG, id=71, 371.13657pt x 164.11313pt>
+File: confmatrix.PNG Graphic file (type png)
+<use confmatrix.PNG>
+Package pdftex.def Info: confmatrix.PNG  used on input line 493.
+(pdftex.def)             Requested size: 334.0198pt x 147.70044pt.
+
+Overfull \hbox (39.03911pt too wide) in paragraph at lines 497--498
+\T2A/cmr/m/n/12 мож-но вос-поль-зо-вать-ся \T2A/cmr/m/it/12 мак-ро-усред-не-ни-
+ем \T2A/cmr/m/n/12 (\T2A/cmr/m/it/12 macroaveraging\T2A/cmr/m/n/12 ) или \T2A/c
+mr/m/it/12 мик-ро-усред-не-ни-ем \T2A/cmr/m/n/12 (\T2A/cmr/m/it/12 microaveragi
+ng\T2A/cmr/m/n/12 ). 
+ []
+
+<micromacro.PNG, id=72, 441.90094pt x 163.3603pt>
+File: micromacro.PNG Graphic file (type png)
+<use micromacro.PNG>
+Package pdftex.def Info: micromacro.PNG  used on input line 503.
+(pdftex.def)             Requested size: 397.70717pt x 147.0229pt.
+[14 <./confmatrix.PNG> <./micromacro.PNG>] [15]
+<sigmoid.PNG, id=81, 676.77844pt x 241.65282pt>
+File: sigmoid.PNG Graphic file (type png)
+<use sigmoid.PNG>
+Package pdftex.def Info: sigmoid.PNG  used on input line 580.
+(pdftex.def)             Requested size: 541.4235pt x 193.32251pt.
+
+Overfull \hbox (43.50024pt too wide) in paragraph at lines 580--581
+ [] 
+ []
+
+[16]
+
+LaTeX Warning: Command \cyrf invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrc invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 617.
+
+Missing character: There is no ф in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no ц in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no й in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no ь in font cmr12!
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrerev invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 617.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 617.
+
+Missing character: There is no к in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no э in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no я in font cmr12!
+[17 <./sigmoid.PNG>] [18] [19
 
 ] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 4318 strings out of 492482
- 53297 string characters out of 3131019
- 136020 words of memory out of 3000000
- 8580 multiletter control sequences out of 15000+200000
+ 5433 strings out of 492482
+ 73560 string characters out of 3131019
+ 150281 words of memory out of 3000000
+ 9684 multiletter control sequences out of 15000+200000
  19005 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,31p,1132b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,10n,42p,921b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/l
 h/lh-t2a/dpi600\larm0800.pk> <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/p
 k/ljfour/lh/lh-t2a/dpi600\lati0800.pk> <C:\Users\afadeev\AppData\Local\MiKTeX\2
@@ -603,9 +775,9 @@ es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
 lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy8.pfb>
-Output written on document.pdf (13 pages, 438154 bytes).
+Output written on document.pdf (19 pages, 561735 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
+ 546 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
