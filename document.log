@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  23 FEB 2020 19:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  23 FEB 2020 21:32
 entering extended mode
 **./document.tex
 (document.tex
@@ -1055,14 +1055,14 @@ cmr/m/n/12 или \T2A/cmr/m/it/12 мат-ри-ца-ми терминов-контекста \T2A/cmr/m/n/12
  (\T2A/cmr/m/it/12 term-term matrix\T2A/cmr/m/n/12 ,
  []
 
-[23 <./proje.PNG>] [24] [25
+[23 <./proje.PNG>] [24] [25] [26
 
 ] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 15852 strings out of 492482
- 282407 string characters out of 3131019
+ 15853 strings out of 492482
+ 282411 string characters out of 3131019
  454904 words of memory out of 3000000
- 20067 multiletter control sequences out of 15000+200000
+ 20068 multiletter control sequences out of 15000+200000
  547703 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,10n,67p,921b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1085,9 +1085,9 @@ es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
 lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy8.pfb>
-Output written on document.pdf (25 pages, 688771 bytes).
+Output written on document.pdf (26 pages, 696648 bytes).
 PDF statistics:
- 588 PDF objects out of 1000 (max. 8388607)
+ 599 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
