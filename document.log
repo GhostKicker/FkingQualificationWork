@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  23 FEB 2020 02:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  23 FEB 2020 04:17
 entering extended mode
 **./document.tex
 (document.tex
@@ -716,39 +716,39 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [1
+
+
+{C:/Users/afadeev/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
 \tf@toc=\write3
 \openout3 = `document.toc'.
 
- [1
-
-
-{C:/Users/afadeev/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+ [2]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-[2
-
-]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 [3
 
 ]
-<regex.png, id=17, 1487.5575pt x 901.3675pt>
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+[4
+
+]
+<regex.png, id=20, 1487.5575pt x 901.3675pt>
 File: regex.png Graphic file (type png)
 <use regex.png>
 Package pdftex.def Info: regex.png  used on input line 70.
 (pdftex.def)             Requested size: 297.50623pt x 180.2703pt.
- [4 <./regex.png (PNG copy)>]
-<bpe.png, id=21, 470.75874pt x 143.53625pt>
+ [5 <./regex.png (PNG copy)>]
+<bpe.png, id=24, 470.75874pt x 143.53625pt>
 File: bpe.png Graphic file (type png)
 <use bpe.png>
 Package pdftex.def Info: bpe.png  used on input line 122.
 (pdftex.def)             Requested size: 376.60751pt x 114.82915pt.
- [5 <./bpe.png>]
+ [6 <./bpe.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
-<MED.PNG, id=26, 658.71094pt x 151.3153pt>
+<MED.PNG, id=29, 658.71094pt x 151.3153pt>
 File: MED.PNG Graphic file (type png)
 <use MED.PNG>
 Package pdftex.def Info: MED.PNG  used on input line 172.
@@ -764,32 +764,32 @@ Overfull \hbox (14.91814pt too wide) in paragraph at lines 177--178
 слов ве-ро-ят-но-сти на-зы-ва-ют-ся \T2A/cmr/m/it/12 Language
  []
 
-[6 <./MED.PNG>] [7] [8] [9]
+[7 <./MED.PNG>] [8] [9] [10]
 
 LaTeX Warning: Command \cyrs invalid in math mode on input line 307.
 
 Missing character: There is no с in font cmr12!
-[10]
-<NaiveBayes.PNG, id=57, 443.40656pt x 264.23718pt>
+[11]
+<NaiveBayes.PNG, id=60, 443.40656pt x 264.23718pt>
 File: NaiveBayes.PNG Graphic file (type png)
 <use NaiveBayes.PNG>
 Package pdftex.def Info: NaiveBayes.PNG  used on input line 371.
 (pdftex.def)             Requested size: 399.06221pt x 237.81125pt.
- [11 <./NaiveBayes.PNG>]
+ [12 <./NaiveBayes.PNG>]
 Overfull \hbox (16.27745pt too wide) in paragraph at lines 381--382
 []\T2A/cmr/m/n/12 Эта идея \T2A/cmr/m/it/12 Бай-е-сов-ско-го вы-во-да \T2A/cmr/
 m/n/12 бы-ла из-вест-на с мо-мен-та пуб-ли-ка-ции ра-бо-ты Бай-е-са (1763)[10],
 
  []
 
-[12]
-<conttable.PNG, id=65, 371.88937pt x 134.75343pt>
+[13]
+<conttable.PNG, id=69, 371.88937pt x 134.75343pt>
 File: conttable.PNG Graphic file (type png)
 <use conttable.PNG>
 Package pdftex.def Info: conttable.PNG  used on input line 459.
 (pdftex.def)             Requested size: 334.69734pt x 121.27696pt.
- [13 <./conttable.PNG>]
-<confmatrix.PNG, id=71, 371.13657pt x 164.11313pt>
+ [14 <./conttable.PNG>]
+<confmatrix.PNG, id=74, 371.13657pt x 164.11313pt>
 File: confmatrix.PNG Graphic file (type png)
 <use confmatrix.PNG>
 Package pdftex.def Info: confmatrix.PNG  used on input line 496.
@@ -802,13 +802,13 @@ mr/m/it/12 мик-ро-усред-не-ни-ем \T2A/cmr/m/n/12 (\T2A/cmr/m/it/12 microaveragi
 ng\T2A/cmr/m/n/12 ). 
  []
 
-<micromacro.PNG, id=72, 441.90094pt x 163.3603pt>
+<micromacro.PNG, id=75, 441.90094pt x 163.3603pt>
 File: micromacro.PNG Graphic file (type png)
 <use micromacro.PNG>
 Package pdftex.def Info: micromacro.PNG  used on input line 506.
 (pdftex.def)             Requested size: 397.70717pt x 147.0229pt.
-[14 <./confmatrix.PNG> <./micromacro.PNG>] [15]
-<sigmoid.PNG, id=81, 676.77844pt x 241.65282pt>
+[15 <./confmatrix.PNG> <./micromacro.PNG>] [16]
+<sigmoid.PNG, id=84, 676.77844pt x 241.65282pt>
 File: sigmoid.PNG Graphic file (type png)
 <use sigmoid.PNG>
 Package pdftex.def Info: sigmoid.PNG  used on input line 583.
@@ -818,7 +818,7 @@ Overfull \hbox (43.50024pt too wide) in paragraph at lines 583--584
  [] 
  []
 
-[16]
+[17]
 
 LaTeX Warning: Command \cyrf invalid in math mode on input line 620.
 
@@ -927,13 +927,13 @@ Missing character: There is no о in font cmr12!
 Missing character: There is no п in font cmr12!
 Missing character: There is no и in font cmr12!
 Missing character: There is no я in font cmr12!
-[17 <./sigmoid.PNG>]
-<gradstep.PNG, id=89, 339.51843pt x 145.29282pt>
+[18 <./sigmoid.PNG>]
+<gradstep.PNG, id=92, 339.51843pt x 145.29282pt>
 File: gradstep.PNG Graphic file (type png)
 <use gradstep.PNG>
 Package pdftex.def Info: gradstep.PNG  used on input line 671.
 (pdftex.def)             Requested size: 305.56375pt x 130.76231pt.
- [18 <./gradstep.PNG>]
+ [19 <./gradstep.PNG>]
 Underfull \hbox (badness 10000) in paragraph at lines 719--719
 
  []
@@ -943,14 +943,114 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 702--720
 [] 
  []
 
-[19] [20] [21
+[20]
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 769.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 769.
+
+Missing character: There is no г in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no з in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no й in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no я in font cmr12!
+[21]
+<sema.PNG, id=104, 660.96938pt x 313.9228pt>
+File: sema.PNG Graphic file (type png)
+<use sema.PNG>
+Package pdftex.def Info: sema.PNG  used on input line 778.
+(pdftex.def)             Requested size: 396.58469pt x 188.35512pt.
+<shake.PNG, id=105, 679.78969pt x 117.43875pt>
+File: shake.PNG Graphic file (type png)
+<use shake.PNG>
+Package pdftex.def Info: shake.PNG  used on input line 796.
+(pdftex.def)             Requested size: 407.87695pt x 70.46378pt.
+ [22 <./sema.PNG> <./shake.PNG>] [23
 
 ] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 15834 strings out of 492482
- 282194 string characters out of 3131019
+ 15846 strings out of 492482
+ 282334 string characters out of 3131019
  454904 words of memory out of 3000000
- 20052 multiletter control sequences out of 15000+200000
+ 20062 multiletter control sequences out of 15000+200000
  547703 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,10n,67p,921b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -973,9 +1073,9 @@ es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
 lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy8.pfb>
-Output written on document.pdf (21 pages, 589714 bytes).
+Output written on document.pdf (23 pages, 640776 bytes).
 PDF statistics:
- 565 PDF objects out of 1000 (max. 8388607)
+ 579 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
