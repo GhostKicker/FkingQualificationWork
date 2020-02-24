@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  23 FEB 2020 22:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  24 FEB 2020 12:57
 entering extended mode
 **./document.tex
 (document.tex
@@ -608,6 +608,18 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen152
 \Gin@req@width=\dimen153
 )
+("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box50
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen154
+\ttl@minus=\dimen155
+\ttl@toksa=\toks25
+\titlewidth=\dimen156
+\titlewidthlast=\dimen157
+\titlewidthfirst=\dimen158
+)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
@@ -620,15 +632,15 @@ Package: iftex 2019/11/07 v1.0c TeX engine tests
 \Gm@cnth=\count266
 \Gm@cntv=\count267
 \c@Gm@tempcnt=\count268
-\Gm@bindingoffset=\dimen154
-\Gm@wd@mp=\dimen155
-\Gm@odd@mp=\dimen156
-\Gm@even@mp=\dimen157
-\Gm@layoutwidth=\dimen158
-\Gm@layoutheight=\dimen159
-\Gm@layouthoffset=\dimen160
-\Gm@layoutvoffset=\dimen161
-\Gm@dimlist=\toks25
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks26
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
 
@@ -638,36 +650,36 @@ LaTeX Warning: Unused global option(s):
 (document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count269
-\scratchdimen=\dimen162
-\scratchbox=\box50
+\scratchdimen=\dimen167
+\scratchbox=\box51
 \nofMPsegments=\count270
 \nofMParguments=\count271
-\everyMPshowfont=\toks26
+\everyMPshowfont=\toks27
 \MPscratchCnt=\count272
-\MPscratchDim=\dimen163
+\MPscratchDim=\dimen168
 \MPnumerator=\count273
 \makeMPintoPDFobject=\count274
-\everyMPtoPDFconversion=\toks27
+\everyMPtoPDFconversion=\toks28
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -708,52 +720,52 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 75.
-
+LaTeX Font Info:    Trying to load font information for U+msa on input line 103
+.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 103
+.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 72--80
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--80
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--80
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--88
+Underfull \hbox (badness 10000) in paragraph at lines 109--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--88
+Underfull \hbox (badness 10000) in paragraph at lines 109--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--99
+Underfull \hbox (badness 10000) in paragraph at lines 117--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--99
+Underfull \hbox (badness 10000) in paragraph at lines 117--127
 
  []
 
@@ -778,16 +790,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--99
 <regex.png, id=26, 1487.5575pt x 901.3675pt>
 File: regex.png Graphic file (type png)
 <use regex.png>
-Package pdftex.def Info: regex.png  used on input line 144.
+Package pdftex.def Info: regex.png  used on input line 172.
 (pdftex.def)             Requested size: 297.50623pt x 180.2703pt.
  [6 <./regex.png (PNG copy)>]
 <bpe.png, id=30, 470.75874pt x 143.53625pt>
 File: bpe.png Graphic file (type png)
 <use bpe.png>
-Package pdftex.def Info: bpe.png  used on input line 196.
+Package pdftex.def Info: bpe.png  used on input line 224.
 (pdftex.def)             Requested size: 376.60751pt x 114.82915pt.
  [7]
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
 
  []
 
@@ -795,32 +807,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--218
 <MED.PNG, id=39, 658.71094pt x 151.3153pt>
 File: MED.PNG Graphic file (type png)
 <use MED.PNG>
-Package pdftex.def Info: MED.PNG  used on input line 246.
+Package pdftex.def Info: MED.PNG  used on input line 274.
 (pdftex.def)             Requested size: 526.96945pt x 121.0524pt.
 
-Overfull \hbox (29.0462pt too wide) in paragraph at lines 246--247
+Overfull \hbox (29.0462pt too wide) in paragraph at lines 274--275
  [] 
  []
 
 
-Overfull \hbox (14.91814pt too wide) in paragraph at lines 251--252
+Overfull \hbox (14.91814pt too wide) in paragraph at lines 279--280
 []\T2A/cmr/m/n/12 Модели, ко-то-рые со-по-став-ля-ют по-сле-до-ва-тель-но-стям 
 слов ве-ро-ят-но-сти на-зы-ва-ют-ся \T2A/cmr/m/it/12 Language
  []
 
 [9 <./MED.PNG>] [10] [11] [12] [13]
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 381.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 409.
 
 Missing character: There is no с in font cmr12!
 [14]
 <NaiveBayes.PNG, id=71, 443.40656pt x 264.23718pt>
 File: NaiveBayes.PNG Graphic file (type png)
 <use NaiveBayes.PNG>
-Package pdftex.def Info: NaiveBayes.PNG  used on input line 445.
+Package pdftex.def Info: NaiveBayes.PNG  used on input line 473.
 (pdftex.def)             Requested size: 399.06221pt x 237.81125pt.
 
-Overfull \hbox (16.27745pt too wide) in paragraph at lines 455--456
+Overfull \hbox (16.27745pt too wide) in paragraph at lines 483--484
 []\T2A/cmr/m/n/12 Эта идея \T2A/cmr/m/it/12 Бай-е-сов-ско-го вы-во-да \T2A/cmr/
 m/n/12 бы-ла из-вест-на с мо-мен-та пуб-ли-ка-ции ра-бо-ты Бай-е-са (1763)[10],
 
@@ -830,16 +842,16 @@ m/n/12 бы-ла из-вест-на с мо-мен-та пуб-ли-ка-ции ра-бо-ты Бай-е-са (1763)[10],
 <conttable.PNG, id=79, 371.88937pt x 134.75343pt>
 File: conttable.PNG Graphic file (type png)
 <use conttable.PNG>
-Package pdftex.def Info: conttable.PNG  used on input line 533.
+Package pdftex.def Info: conttable.PNG  used on input line 561.
 (pdftex.def)             Requested size: 334.69734pt x 121.27696pt.
  [17 <./conttable.PNG>]
 <confmatrix.PNG, id=84, 371.13657pt x 164.11313pt>
 File: confmatrix.PNG Graphic file (type png)
 <use confmatrix.PNG>
-Package pdftex.def Info: confmatrix.PNG  used on input line 570.
+Package pdftex.def Info: confmatrix.PNG  used on input line 598.
 (pdftex.def)             Requested size: 334.0198pt x 147.70044pt.
 
-Overfull \hbox (39.03911pt too wide) in paragraph at lines 574--575
+Overfull \hbox (39.03911pt too wide) in paragraph at lines 602--603
 \T2A/cmr/m/n/12 мож-но вос-поль-зо-вать-ся \T2A/cmr/m/it/12 мак-ро-усред-не-ни-
 ем \T2A/cmr/m/n/12 (\T2A/cmr/m/it/12 macroaveraging\T2A/cmr/m/n/12 ) или \T2A/c
 mr/m/it/12 мик-ро-усред-не-ни-ем \T2A/cmr/m/n/12 (\T2A/cmr/m/it/12 microaveragi
@@ -850,61 +862,61 @@ ng\T2A/cmr/m/n/12 ).
 <micromacro.PNG, id=89, 441.90094pt x 163.3603pt>
 File: micromacro.PNG Graphic file (type png)
 <use micromacro.PNG>
-Package pdftex.def Info: micromacro.PNG  used on input line 580.
+Package pdftex.def Info: micromacro.PNG  used on input line 608.
 (pdftex.def)             Requested size: 397.70717pt x 147.0229pt.
  [19 <./micromacro.PNG>] [20]
 <sigmoid.PNG, id=98, 676.77844pt x 241.65282pt>
 File: sigmoid.PNG Graphic file (type png)
 <use sigmoid.PNG>
-Package pdftex.def Info: sigmoid.PNG  used on input line 657.
+Package pdftex.def Info: sigmoid.PNG  used on input line 685.
 (pdftex.def)             Requested size: 541.4235pt x 193.32251pt.
 
-Overfull \hbox (43.50024pt too wide) in paragraph at lines 657--658
+Overfull \hbox (43.50024pt too wide) in paragraph at lines 685--686
  [] 
  []
 
 [21 <./sigmoid.PNG>]
 
-LaTeX Warning: Command \cyrf invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrf invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 694.
+LaTeX Warning: Command \cyru invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrc invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrc invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 694.
+LaTeX Warning: Command \cyri invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 694.
+LaTeX Warning: Command \cyre invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 694.
+LaTeX Warning: Command \cyro invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 694.
+LaTeX Warning: Command \cyre invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 722.
 
 Missing character: There is no ф in font cmr12!
 Missing character: There is no у in font cmr12!
@@ -921,43 +933,43 @@ Missing character: There is no е in font cmr12!
 Missing character: There is no р in font cmr12!
 Missing character: There is no ь in font cmr12!
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 694.
+LaTeX Warning: Command \cyro invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrerev invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrerev invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 694.
+LaTeX Warning: Command \cyro invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 694.
+LaTeX Warning: Command \cyri invalid in math mode on input line 722.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 694.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 722.
 
 Missing character: There is no к in font cmr12!
 Missing character: There is no р in font cmr12!
@@ -976,84 +988,84 @@ Missing character: There is no я in font cmr12!
 <gradstep.PNG, id=106, 339.51843pt x 145.29282pt>
 File: gradstep.PNG Graphic file (type png)
 <use gradstep.PNG>
-Package pdftex.def Info: gradstep.PNG  used on input line 745.
+Package pdftex.def Info: gradstep.PNG  used on input line 773.
 (pdftex.def)             Requested size: 305.56375pt x 130.76231pt.
  [23 <./gradstep.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 793--793
+Underfull \hbox (badness 10000) in paragraph at lines 821--821
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 776--794
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 804--822
 [] 
  []
 
 [24] [25]
 
-LaTeX Warning: Command \cyrg invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrg invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 843.
+LaTeX Warning: Command \cyri invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 843.
+LaTeX Warning: Command \cyro invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 843.
+LaTeX Warning: Command \cyre invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 843.
+LaTeX Warning: Command \cyro invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 843.
+LaTeX Warning: Command \cyra invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 843.
+LaTeX Warning: Command \cyre invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 843.
+LaTeX Warning: Command \cyre invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 843.
+LaTeX Warning: Command \cyre invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 843.
+LaTeX Warning: Command \cyri invalid in math mode on input line 871.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 843.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 871.
 
 Missing character: There is no г in font cmr12!
 Missing character: There is no и in font cmr12!
@@ -1080,21 +1092,21 @@ Missing character: There is no я in font cmr12!
 <sema.PNG, id=118, 660.96938pt x 313.9228pt>
 File: sema.PNG Graphic file (type png)
 <use sema.PNG>
-Package pdftex.def Info: sema.PNG  used on input line 852.
+Package pdftex.def Info: sema.PNG  used on input line 880.
 (pdftex.def)             Requested size: 396.58469pt x 188.35512pt.
 [26 <./sema.PNG>]
 <shake.PNG, id=123, 679.78969pt x 117.43875pt>
 File: shake.PNG Graphic file (type png)
 <use shake.PNG>
-Package pdftex.def Info: shake.PNG  used on input line 870.
+Package pdftex.def Info: shake.PNG  used on input line 898.
 (pdftex.def)             Requested size: 407.87695pt x 70.46378pt.
 <proje.PNG, id=124, 744.53156pt x 341.77687pt>
 File: proje.PNG Graphic file (type png)
 <use proje.PNG>
-Package pdftex.def Info: proje.PNG  used on input line 877.
+Package pdftex.def Info: proje.PNG  used on input line 905.
 (pdftex.def)             Requested size: 446.72238pt x 205.0677pt.
 
-Overfull \hbox (13.41109pt too wide) in paragraph at lines 888--890
+Overfull \hbox (13.41109pt too wide) in paragraph at lines 916--918
 \T2A/cmr/m/n/12 ще на-зы-ва-е-мые \T2A/cmr/m/it/12 мат-ри-ца-ми слов-слов \T2A/
 cmr/m/n/12 или \T2A/cmr/m/it/12 мат-ри-ца-ми терминов-контекста \T2A/cmr/m/n/12
  (\T2A/cmr/m/it/12 term-term matrix\T2A/cmr/m/n/12 ,
@@ -1104,10 +1116,10 @@ cmr/m/n/12 или \T2A/cmr/m/it/12 мат-ри-ца-ми терминов-контекста \T2A/cmr/m/n/12
 
 ] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 15855 strings out of 492482
- 282432 string characters out of 3131019
+ 16141 strings out of 492482
+ 286049 string characters out of 3131019
  454904 words of memory out of 3000000
- 20070 multiletter control sequences out of 15000+200000
+ 20352 multiletter control sequences out of 15000+200000
  547703 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,12n,67p,921b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1131,9 +1143,9 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX
 /type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmsy8.pfb>
-Output written on document.pdf (31 pages, 719867 bytes).
+Output written on document.pdf (31 pages, 720490 bytes).
 PDF statistics:
- 669 PDF objects out of 1000 (max. 8388607)
+ 671 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

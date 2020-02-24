@@ -11,6 +11,7 @@
 \usepackage{amssymb,amsfonts,amsmath,mathtext,cite,enumerate,float} %подключаем нужные пакеты расширений
 \usepackage{graphicx} %хотим вставлять в диплом рисунки?
 \usepackage{indentfirst}
+\usepackage{titlesec}
 \graphicspath{{images/}}%п\usepackage{trd}уть к рисункам
 
 \makeatletter
@@ -34,6 +35,33 @@
 	\noindent
 	\makebox[0pt][l]{\rule[.7ex]{\linewidth}{#1}}%
 	\rule[.3ex]{\linewidth}{#1}}
+
+
+
+
+\titleformat
+{\chapter} % command
+[display] % shape
+{\bfseries\Huge} % format
+{} % label
+{0.5ex} % sep
+{
+	\thechapter .
+} % before-code
+[
+] % after-code
+
+
+
+
+
+
+
+
+
+
+
+
 
 \begin{document}
 	\linespread{1.3}
