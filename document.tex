@@ -1097,7 +1097,7 @@
 	Необходимо разработать оператор $F$, который по заданному запросу построит вектор причин:
 	
 	\begin{equation}
-	F(q) = 2^{\Sigma^\ast} \times \Re \rightarrow 2^{\Sigma^\ast}
+	F(q) : 2^{\Sigma^\ast} \times \Re \rightarrow 2^{\Sigma^\ast}
 	\end{equation}  
 	
 	\newpage
@@ -1278,35 +1278,6 @@
 	 Получившееся множество слов и поступает на выход всей системы.
 	 
 	 
-	 
-	
-	\iffalse
-	Множество запросов разбивается на отдельные запросы, они обрабатываются в порядке неубывания времени поступления, после этого системе последовательно подаются на вход тексты запросов.
-	
-	Каждый поступивший текст запроса требуется нормализовать, то есть произвести 3 действия:
-	
-	\begin{enumerate}
-		\item Токенизацию (сегментирование) слов
-		\item Нормализацию форматов слов
-		\item Сегментирование предложений
-	\end{enumerate}
-	
-	Токенизация слов требуется для обнаружения имен, дат и организаций, так как они представляют собой одну смысловую единицу, но не всегда состоят из одного слова. Для этого используется \textit{Penn Treebank}.
-	
-	Далее происходит нормализация слов, то есть приведение их к словарной форме и стемминг для выделения корней слов, для этого используется \textit{стеммер Портера}.
-	
-	Формируется словарь $V$, ключи которого - получившиеся стеммы, а значения - слова, из которых они получились.
-	
-	После этого производится сегментирование предложений. По сути, требуется разбитие по знакам окончания предложения, если они не входят в какое-либо слово.
-	
-	Для получившихся токенов внутри каждого предложения вычисляются N-граммы, а именно юниграммы, биграммы, триграммы.
-	
-	Далее вычисляется \textit{TF-IDF} для каждой получившейся N-граммы в данном тексте и добавляется в хэш-таблицу $H$.
-		
-	$m$ N-грамм из $H$ с наибольшим TF-IDF и есть искомые.
-	
-	Теперь, осталось восстановить исходные слова из этих N-грамм. Для этого достаточно взять значение в словаре $V$ для стеммы $s$, то есть $V_s$.
-	\fi
 	
 	
 	
@@ -1318,7 +1289,7 @@
 	\begin{enumerate}
 		\item Проведен анализ современных подходов и методов обработки естественного языка, а также соответствующих математических моделей с целью выбора наиболее подходящих для построения системы выявления и мониторинга причин.
 		
-		Разработано математическое и алгоритмическое обеспечение для системы выявления и мониторинга причин.
+		\item Разработано математическое и алгоритмическое обеспечение для системы выявления и мониторинга причин.
 		
 		
 	\end{enumerate}
@@ -1355,10 +1326,10 @@
 		Proceedings of the ITAT 2008, Information Technologies Applications and Theory, Hrebienok, Slovakia, pp. 23-26, September 2008. ISBN 978-80-969184-8-5
 		
 		\bibitem{13}
-		Кельберт М. Я., Сухов Ю. М. Вероятность и статистика в примерах и задачах. Т. ??: Марковские цепи как отправная точка теории случайных процессов и их приложения. ? М.: МЦНМО, 2010. ? 295 с. ? ISBN 978-5-94057-252-7.
+		Кельберт М. Я., Сухов Ю. М. Вероятность и статистика в примерах и задачах. Т. II: Марковские цепи как отправная точка теории случайных процессов и их приложения. -- М.: МЦНМО, 2010. -- 295 с. -- ISBN 978-5-94057-252-7.
 		
 		\bibitem{14}
-		Domingos, Pedro \& Michael Pazzani (1997) ?On the optimality of the simple Bayesian classifier under zero-one loss?. Machine Learning, 29:103-137. (also online at CiteSeer: [1])
+		Domingos, Pedro \& Michael Pazzani (1997) <<On the optimality of the simple Bayesian classifier under zero-one loss>>. Machine Learning, 29:103-137. (also online at CiteSeer: [1])
 		
 		\bibitem{10}
 		Bayes, T. (1763). An Essay Toward
@@ -1375,10 +1346,10 @@
 		\bibitem{12}
 		Luhn, H. P. (1957). A statistical approach to the mechanized encoding
 		and searching of literary information.
-		IBM Journal of Research and Development, 1(4), 309?317
+		IBM Journal of Research and Development, 1(4), 309--317
 		
 		\bibitem{20}
-		Mikolov T., Chen K., Corrado G., Dean J. Efficient Estimation of Word Representations in Vector Space // In Proceedings of Workshop at ICLR. ? 2013
+		Mikolov T., Chen K., Corrado G., Dean J. Efficient Estimation of Word Representations in Vector Space // In Proceedings of Workshop at ICLR. -- 2013
 		
 		
 		\bibitem{15}
@@ -1389,10 +1360,10 @@
 		
 		
 		\bibitem{16}
-		Mitchell, Tom M. Machine Learning. ? WCB?McGraw?Hill, 1997. ? ISBN 0-07-042807-7.
+		Mitchell, Tom M. Machine Learning. -- WCB-McGraw-Hill, 1997. -- ISBN 0-07-042807-7.
 		
 		\bibitem{17}
-		Акулич И. Л. Математическое программирование в примерах и задачах. ? М.: Высшая школа, 1986. ? С. 298-310.
+		Акулич И. Л. Математическое программирование в примерах и задачах. -- М.: Высшая школа, 1986. ? С. 298-310.
 		
 		\bibitem{19}
 		 Taddy, Matt (2019). "Stochastic Gradient Descent". Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business Decisions. New York: McGraw-Hill. pp. 303?307. ISBN 978-1-260-45277-8.
