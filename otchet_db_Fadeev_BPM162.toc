@@ -1,0 +1,19 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{\numberline {1}Список основных используемых сокращений}{3}%
+\contentsline {chapter}{\numberline {2}Постановка задачи}{4}%
+\contentsline {section}{\numberline {2.1}Описание предметной области}{4}%
+\contentsline {section}{\numberline {2.2}Назначение разрабатываемой информационной системы}{4}%
+\contentsline {chapter}{\numberline {3}Использованные средства разработки и системные требования}{5}%
+\contentsline {section}{\numberline {3.1}Описание языковых и инструментальных средств}{5}%
+\contentsline {section}{\numberline {3.2}Системные требования для клиентского приложения и базы данных}{5}%
+\contentsline {chapter}{\numberline {4}Модель данных}{6}%
+\contentsline {section}{\numberline {4.1}ER-диаграмма}{6}%
+\contentsline {section}{\numberline {4.2}Особенности структуры модели}{7}%
+\contentsline {chapter}{\numberline {5}Описание клиентского приложения}{9}%
+\contentsline {section}{\numberline {5.1}назначение клиентсткого приложения и его функциональные особенности}{9}%
+\contentsline {section}{\numberline {5.2}описание основных экранных форм}{9}%
+\contentsline {chapter}{\numberline {6}Выводы}{18}%
+\contentsline {chapter}{\numberline {7}Список используемой литературы}{19}%
+\contentsline {chapter}{\numberline {8}Приложения}{20}%
+\contentsline {section}{\numberline {8.1}Скрипт для создания БД}{20}%
+\contentsline {section}{\numberline {8.2}Скрипт для приложения}{25}%

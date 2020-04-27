@@ -1,0 +1,9 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Цель}{3}%
+\contentsline {section}{\numberline {2}Формулировка задания}{3}%
+\contentsline {section}{\numberline {3}Взаимодействие с пользователем}{3}%
+\contentsline {section}{\numberline {4}Описание предполагаемого результата работы}{3}%
+\contentsline {section}{\numberline {5}Средства разработки}{3}%
+\contentsline {section}{\numberline {6}Интерфейс}{3}%
+\contentsline {section}{\numberline {7}Входные данные}{4}%
+\contentsline {section}{\numberline {8}Краткое описание алгоритма}{4}%

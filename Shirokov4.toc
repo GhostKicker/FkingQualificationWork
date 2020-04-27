@@ -1,0 +1,18 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Общие положения.}{3}%
+\contentsline {subsection}{\numberline {1.1}Наименование системы.}{3}%
+\contentsline {subsection}{\numberline {1.2}Основание для проведения работ.}{3}%
+\contentsline {subsection}{\numberline {1.3}Наименование организации -- заказчика и разработчика.}{3}%
+\contentsline {subsubsection}{Заказчик}{3}%
+\contentsline {subsubsection}{Разработчик}{3}%
+\contentsline {subsection}{\numberline {1.4}Цели, назначение и область использования системы.}{3}%
+\contentsline {subsection}{\numberline {1.5}Нормативные ссылки.}{3}%
+\contentsline {section}{\numberline {2}Основные технические решения.}{3}%
+\contentsline {subsection}{\numberline {2.1}Разработка алгоритма решения задачи.}{3}%
+\contentsline {subsection}{\numberline {2.2}Интерфейс.}{4}%
+\contentsline {section}{\numberline {3}Решение по режимам функционирования, работы системы.}{4}%
+\contentsline {section}{\numberline {4}Решения по численности, квалификации и функциям персонала АС.}{4}%
+\contentsline {section}{\numberline {5}Состав функций комплексов задач, реализуемых системой.}{5}%
+\contentsline {section}{\numberline {6}Решения по составу программных средств, языкам деятельности, алгоритмам процедур и операций и методам их реализации.}{5}%
+\contentsline {subsection}{\numberline {6.1}Средства разработки.}{5}%
+\contentsline {subsection}{\numberline {6.2}Пользовательский интерфейс.}{5}%

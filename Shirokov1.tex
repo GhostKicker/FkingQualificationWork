@@ -1,0 +1,169 @@
+\documentclass[a4paper,12pt,preview]{report} %размер бумаги устанавливаем А4, шрифт 12пунктов
+\usepackage[english,russian]{babel}%используем русский и английский языки с переносами 	
+\usepackage[T2A]{fontenc}
+\usepackage{changepage}
+\usepackage{lipsum}
+\usepackage{indentfirst}
+\usepackage[labelsep=period]{caption}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage[utf8]{inputenc}%включаем свою кодировку: koi8-r или utf8 в UNIX, cp1251 в Windows
+\usepackage[english,russian]{babel}%используем русский и английский языки с переносами 	
+\usepackage{amssymb,amsfonts,amsmath,mathtext,cite,enumerate,float} %подключаем нужные пакеты расширений
+\usepackage{graphicx} %хотим вставлять в диплом рисунки?
+\usepackage{ragged2e}
+\usepackage{indentfirst}
+\usepackage{titlesec}
+\graphicspath{{images/}}%п\usepackage{trd}уть к рисункам
+
+\makeatletter
+\renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку:
+\makeatother
+
+\usepackage{geometry} % Меняем поля страницы
+\geometry{left=2cm}% левое поле
+\geometry{right=1.5cm}% правое поле
+\geometry{top=1cm}% верхнее поле
+\geometry{bottom=2cm}% нижнее поле
+
+\renewcommand{\theenumi}{\arabic{enumi}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumi}{\arabic{enumi}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\theenumii}{.\arabic{enumii}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\theenumiii}{.\arabic{enumiii}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}% Меняем везде перечисления на цифра.цифра
+
+\newcommand{\doublerule}[1][.4pt]{%
+	\noindent
+	\makebox[0pt][l]{\rule[.7ex]{\linewidth}{#1}}%
+	\rule[.3ex]{\linewidth}{#1}}
+
+
+
+\titleformat{\chapter}[hang]
+{\normalfont\huge\bfseries}{\thechapter.}{20pt}{}
+
+\renewcommand*\thesection{\arabic{section}}
+
+\begin{document}
+	
+	\begin{center}
+		Министерство образования и науки РФ \\
+		Федеральное государственное автономное образовательное учреждение высшего профессионального образования <<НИТУ МИСиС>>\\
+		Институт ИТАСУ\\
+		Кафедра Инженерной кибернетики\\
+	\end{center}
+	
+	
+	\vfill
+	
+	\begin{center}
+		\Large\textbf{Отчет \textnumero 1 \\
+			по курсу <<Программная инженерия>>\\
+		тема "Генератор фракталов"}
+	\end{center}
+	
+	\vfill
+	
+	\begin{FlushRight}
+		Выполнил\\
+		Студент группы \\
+		БПМ-16-2 \\
+		Фадеев А.Ю. \\
+		[\baselineskip]
+		Проверил: \\
+		Широков А.И. \\
+		[9\baselineskip]
+	\end{FlushRight}
+	
+	
+	\begin{center}
+		Москва 2020
+	\end{center}
+	
+	\thispagestyle{empty}
+	\newpage
+	
+	\tableofcontents
+	\newpage
+	
+	
+	\section{Цель}
+	
+	Создать систему, позволяющую визуализировать заданные пользователем с помощью набора преобразований подобия и исходного множества фракталы.
+	
+	
+	\section{Формулировка задания}
+	
+	Система должна поддерживать выполнение следующих вариантов использования:
+	
+	\begin{itemize}
+		\item Задания исходного множества и набора желаемых преобразований подобия.
+		\item Визуализации полученного фрактала.
+		\item Сохранения изображения фрактала в файл.
+		\item Изменения масштаба изображения.
+		\item Отрисовки координатной сетки.
+		\item Изменения цвета изображения.
+		\item Изменение количества итераций применения преобразований подобия.
+	\end{itemize}
+	
+	\section{Взаимодействие с пользователем}
+	
+	Программа должна предоставлять возможность взаимодействия с конечным пользователем посредством графического интерфейса. Интерфейс должен быть наглядным, понятным, предоставлять доступ ко всем функциям, которые предусмотрены в разделе «Формулировка задания».
+	
+	\section{Описание предполагаемого результата работы}
+	
+	Реализация представляет собой программу, предусматривающую взаимодействие всех основных элементов между собой и реализацию всех необходимых функций.
+	
+	\section{Средства разработки}
+	
+	\begin{enumerate}
+		\item Visual Studio 2019 
+		
+		\item Компилятор C++ 17 MVSC
+		
+		\item OpenCV — библиотека алгоритмов компьютерного зрения, обработки изображений и численных алгоритмов общего назначения с открытым кодом
+		
+	\end{enumerate}
+	
+	\section{Интерфейс}
+	
+	Взаимодействие с пользователем осуществляется посредством графического интерфейса, представляющего собой окно визуализации и два дополнительных окна настроек, предоставляющих возможность посредством передвижения различных "ползунков" изменять те или иные характеристики основного изображения. Список регулируемых характеристик:
+	
+	\begin{enumerate}
+		\item Окно основных настроек:
+		
+		\begin{itemize}
+			\item Масштаб
+			\item Число итераций применения преобразований подобия
+			\item Сдвиг центра координат по оси Х
+			\item Сдвиг центра координат по оси Y
+			\item Ширина изображения
+			\item Высота изображения
+			\item Режимы координатной сетки
+			\item Масштаб координатной сетки
+		\end{itemize}
+		
+		\item Окно дополнительных настроек:
+		
+		\begin{itemize}
+			\item Цвет фона изображения
+			\item Цвет фрактала
+		\end{itemize}
+		
+	\end{enumerate}
+	
+	
+	\section{Входные данные}
+	Исходный многоугольник, а также все преобразования подобия описываются в файле \textit{"settings.txt"}.
+	
+	
+	\section{Краткое описание алгоритма}
+	К заданному в \textit{"settings.txt"} полигону применяются преобразования подобия (являющиеся аффинными) заданное число итераций раз, полученное изображение визуализируется в основном окне.  
+	
+	
+	
+	
+\end{document}
+
+

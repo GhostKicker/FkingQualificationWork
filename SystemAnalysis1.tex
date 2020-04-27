@@ -1,0 +1,104 @@
+\documentclass[a4paper,12pt,preview]{report} %размер бумаги устанавливаем А4, шрифт 12пунктов
+\usepackage[english,russian]{babel}%используем русский и английский языки с переносами 	
+\usepackage[T2A]{fontenc}
+\usepackage{changepage}
+\usepackage{lipsum}
+\usepackage{indentfirst}
+\usepackage[labelsep=period]{caption}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage[utf8]{inputenc}%включаем свою кодировку: koi8-r или utf8 в UNIX, cp1251 в Windows
+\usepackage[english,russian]{babel}%используем русский и английский языки с переносами 	
+\usepackage{amssymb,amsfonts,amsmath,mathtext,cite,enumerate,float} %подключаем нужные пакеты расширений
+\usepackage{graphicx} %хотим вставлять в диплом рисунки?
+\usepackage{ragged2e}
+\usepackage{indentfirst}
+\usepackage{titlesec}
+\graphicspath{{images/}}%п\usepackage{trd}уть к рисункам
+
+\makeatletter
+\renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку:
+\makeatother
+
+\usepackage{geometry} % Меняем поля страницы
+\geometry{left=2cm}% левое поле
+\geometry{right=1.5cm}% правое поле
+\geometry{top=1cm}% верхнее поле
+\geometry{bottom=2cm}% нижнее поле
+
+\renewcommand{\theenumi}{\arabic{enumi}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumi}{\arabic{enumi}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\theenumii}{.\arabic{enumii}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\theenumiii}{.\arabic{enumiii}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}% Меняем везде перечисления на цифра.цифра
+
+\newcommand{\doublerule}[1][.4pt]{%
+	\noindent
+	\makebox[0pt][l]{\rule[.7ex]{\linewidth}{#1}}%
+	\rule[.3ex]{\linewidth}{#1}}
+
+
+
+\titleformat{\chapter}[hang]
+{\normalfont\huge\bfseries}{\thechapter.}{20pt}{}
+
+
+
+\begin{document}
+	
+	\begin{center}
+		Министерство образования и науки РФ \\
+		Федеральное государственное автономное образовательное учреждение высшего профессионального образования <<НИТУ МИСиС>>\\
+		Институт ИТАСУ\\
+		Кафедра Инженерной кибернетики\\
+	\end{center}
+	
+	
+	\vfill
+	
+	\begin{center}
+		\Large\textbf{Домашнее задание \textnumero 3 \\
+			по курсу <<Системный анализ и принятие решений>>}
+	\end{center}
+	
+	\vfill
+	
+	\begin{FlushRight}
+		Выполнил\\
+		Студент группы \\
+		БПМ-16-2 \\
+		Фадеев А.Ю. \\
+		[\baselineskip]
+		Проверила: \\
+		проф. Крапухина Н.В. \\
+		[9\baselineskip]
+	\end{FlushRight}
+	
+	
+	\begin{center}
+		Москва 2020
+	\end{center}
+	
+	\thispagestyle{empty}
+	\newpage
+	
+	\tableofcontents
+	
+	\section{Описание проблемной ситуации}
+	
+	У спортивных программистов часто возникают споры о том, какую среду разработки или текстовый редактор использовать для написания и отладки кода на соревнованиях.
+	
+	Цель этой работы -- определить какая среда является наилучшей для соревнований по спортивному программированию.
+	
+	Рассматриваться будут только общепризнанные и часто используемые программные продукты.
+	
+	\begin{equation}
+		\sum_{i = d}^{m} C_m^i \times (\frac{n-x}{n})^i \times (\frac{x}{n})^{m-i}
+	\end{equation}
+	
+	Вероятность того, что d-ый элемент выборки $> x, x = n - k + 1$
+	
+\end{document}
+
+
