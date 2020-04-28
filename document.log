@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  27 APR 2020 19:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  28 APR 2020 15:08
 entering extended mode
 **./document.tex
 (document.tex
@@ -552,10 +552,7 @@ LaTeX Info: Redefining \] on input line 2859.
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks20
 \inpenc@posthook=\toks21
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\koi8-r.def"
-File: koi8-r.def 2014/10/28 v1.0d Input encoding file
-))
+)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
@@ -1359,13 +1356,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1378.
  ) 
 Here is how much of TeX's memory you used:
- 23567 strings out of 492482
- 393362 string characters out of 3131019
- 539312 words of memory out of 3000000
- 27435 multiletter control sequences out of 15000+200000
+ 23551 strings out of 492482
+ 393052 string characters out of 3131019
+ 539416 words of memory out of 3000000
+ 27422 multiletter control sequences out of 15000+200000
  548603 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,12n,67p,942b,524s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,12n,67p,1351b,524s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\
 labx1728.pk> <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t
 2a/dpi600\lati1200.pk> <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
@@ -1384,7 +1381,7 @@ nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 sfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on document.pdf (42 pages, 1019060 bytes).
+Output written on document.pdf (42 pages, 1019077 bytes).
 PDF statistics:
  1262 PDF objects out of 1440 (max. 8388607)
  229 named destinations out of 1000 (max. 500000)
