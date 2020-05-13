@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  13 MAY 2020 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  13 MAY 2020 10:01
 entering extended mode
-**./document.tex
-(document.tex
+**./presudocode.tex
+(presudocode.tex
 LaTeX2e <2019-10-01> patch level 3
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
 Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
@@ -782,12 +782,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 LaTeX Warning: Unused global option(s):
     [preview].
 
-(document.aux
-
-LaTeX Warning: Label `20' multiply defined.
-
-)
-\openout1 = `document.aux'.
+(presudocode.aux)
+\openout1 = `presudocode.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
 LaTeX Font Info:    ... okay on input line 58.
@@ -811,7 +807,8 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
- ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count280
 \scratchdimen=\dimen171
@@ -856,9 +853,9 @@ LaTeX Info: Redefining \ref on input line 58.
 LaTeX Info: Redefining \pageref on input line 58.
 LaTeX Info: Redefining \nameref on input line 58.
 
-(document.out) (document.out)
+(presudocode.out) (presudocode.out)
 \@outlinefile=\write3
-\openout3 = `document.out'.
+\openout3 = `presudocode.out'.
 
 
 *geometry* driver: auto-detecting
@@ -895,542 +892,68 @@ LaTeX Info: Redefining \nameref on input line 58.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
-
- []
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 9
-5.
-LaTeX Font Info:    No file PD1cmr.fd. on input line 95.
+LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 6
+7.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 67.
 
 
 LaTeX Font Warning: Font shape `PD1/cmr/m/n' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 95.
+(Font)              using `PD1/pdf/m/n' instead on input line 67.
 
-LaTeX Font Info:    Trying to load font information for PU+cmr on input line 95
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 67
 .
-LaTeX Font Info:    No file PUcmr.fd. on input line 95.
+LaTeX Font Info:    No file PUcmr.fd. on input line 67.
 
 LaTeX Font Warning: Font shape `PU/cmr/m/n' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 95.
+(Font)              using `PU/pdf/m/n' instead on input line 67.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--100
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--100
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--100
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--119
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--119
-
- []
-
-[1
-
-{C:/Users/afadeev/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(document.toc [2
-
-])
-\tf@toc=\write4
-\openout4 = `document.toc'.
-
- [3] [4
-
-]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-[5
-
-]
-Overfull \hbox (4.73839pt too wide) in paragraph at lines 181--182
-[]\T2A/cmr/m/n/12 Для то-го, что-бы обо-зна-чить оп-ци-о-наль-ные сим-во-лы, ис
--поль-зу-ет-ся \T2A/cmr/m/it/12 "?"\T2A/cmr/m/n/12 , на-при-мер, \T2A/cmr/m/it/
-12 /colou?r/
- []
-
-<regex.png, id=312, 1487.5575pt x 901.3675pt>
-File: regex.png Graphic file (type png)
-<use regex.png>
-Package pdftex.def Info: regex.png  used on input line 195.
-(pdftex.def)             Requested size: 297.50623pt x 180.2703pt.
-[6 <./regex.png (PNG copy)>]
-Overfull \hbox (19.05235pt too wide) in paragraph at lines 213--216
-\T2A/cmr/m/it/12 Penn Treebank\T2A/cmr/m/n/12 , ис-поль-зу-е-мый для про-ана-ли
--зи-ро-ван-ных кор-пу-сов (\T2A/cmr/m/it/12 treebanks\T2A/cmr/m/n/12 ), вы-пу-щ
-е-на Linguistic
- []
-
-[7]
-<bpe.png, id=324, 470.75874pt x 143.53625pt>
-File: bpe.png Graphic file (type png)
-<use bpe.png>
-Package pdftex.def Info: bpe.png  used on input line 244.
-(pdftex.def)             Requested size: 376.60751pt x 114.82915pt.
- [8 <./bpe.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
-
- []
-
-<MED.PNG, id=335, 658.71094pt x 151.3153pt>
-File: MED.PNG Graphic file (type png)
-<use MED.PNG>
-Package pdftex.def Info: MED.PNG  used on input line 295.
-(pdftex.def)             Requested size: 526.96945pt x 121.0524pt.
-
-Overfull \hbox (29.0462pt too wide) in paragraph at lines 295--296
- [][] 
- []
-
-[9]
-Overfull \hbox (14.91814pt too wide) in paragraph at lines 301--302
-[]\T2A/cmr/m/n/12 Модели, ко-то-рые со-по-став-ля-ют по-сле-до-ва-тель-но-стям 
-слов ве-ро-ят-но-сти на-зы-ва-ют-ся \T2A/cmr/m/it/12 Language
- []
-
-[10 <./MED.PNG>] [11]
-Overfull \hbox (4.10349pt too wide) in paragraph at lines 389--390
-[]\T2A/cmr/m/n/12 Лучший спо-соб оце-нить про-из-во-ди-тель-ность язы-ко-вой мо
--де-ли - это непо-сред-ствен-но встро-
- []
-
-[12] [13]
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 431.
-
-Missing character: There is no с in font cmr12!
-[14]
-<NaiveBayes.PNG, id=399, 443.40656pt x 264.23718pt>
-File: NaiveBayes.PNG Graphic file (type png)
-<use NaiveBayes.PNG>
-Package pdftex.def Info: NaiveBayes.PNG  used on input line 495.
-(pdftex.def)             Requested size: 399.06221pt x 237.81125pt.
- [15] [16 <./NaiveBayes.PNG>] [17]
-<conttable.PNG, id=432, 371.88937pt x 134.75343pt>
-File: conttable.PNG Graphic file (type png)
-<use conttable.PNG>
-Package pdftex.def Info: conttable.PNG  used on input line 584.
-(pdftex.def)             Requested size: 334.69734pt x 121.27696pt.
- [18 <./conttable.PNG>]
-<confmatrix.PNG, id=441, 371.13657pt x 164.11313pt>
-File: confmatrix.PNG Graphic file (type png)
-<use confmatrix.PNG>
-Package pdftex.def Info: confmatrix.PNG  used on input line 622.
-(pdftex.def)             Requested size: 334.0198pt x 147.70044pt.
-
-Overfull \hbox (39.03911pt too wide) in paragraph at lines 627--628
-\T2A/cmr/m/n/12 мож-но вос-поль-зо-вать-ся \T2A/cmr/m/it/12 мак-ро-усред-не-ни-
-ем \T2A/cmr/m/n/12 (\T2A/cmr/m/it/12 macroaveraging\T2A/cmr/m/n/12 ) или \T2A/c
-mr/m/it/12 мик-ро-усред-не-ни-ем \T2A/cmr/m/n/12 (\T2A/cmr/m/it/12 microaveragi
-ng\T2A/cmr/m/n/12 ). 
- []
-
-<micromacro.PNG, id=443, 441.90094pt x 163.3603pt>
-File: micromacro.PNG Graphic file (type png)
-<use micromacro.PNG>
-Package pdftex.def Info: micromacro.PNG  used on input line 633.
-(pdftex.def)             Requested size: 397.70717pt x 147.0229pt.
-[19 <./confmatrix.PNG>]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
-50.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 650.
-
-Overfull \hbox (14.71542pt too wide) in paragraph at lines 654--655
-[]\T2A/cmr/m/n/12 коллекцию до-ку-мен-тов мож-но рас-смат-ри-вать как про-стую 
-вы-бор-ку пар ѕдо-ку-ментслової
- []
-
-[20 <./micromacro.PNG>] [21]
-<derihlet.PNG, id=473, 608.2725pt x 395.22656pt>
-File: derihlet.PNG Graphic file (type png)
-<use derihlet.PNG>
-Package pdftex.def Info: derihlet.PNG  used on input line 745.
-(pdftex.def)             Requested size: 486.61867pt x 316.18167pt.
- [22] [23 <./derihlet.PNG>] [24]
-<sigmoid.PNG, id=503, 676.77844pt x 241.65282pt>
-File: sigmoid.PNG Graphic file (type png)
-<use sigmoid.PNG>
-Package pdftex.def Info: sigmoid.PNG  used on input line 834.
-(pdftex.def)             Requested size: 541.4235pt x 193.32251pt.
-
-Overfull \hbox (43.50024pt too wide) in paragraph at lines 834--835
- [][] 
- []
-
-[25]
-
-LaTeX Warning: Command \cyrf invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrc invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrp invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 872.
-
-Missing character: There is no ф in font cmr12!
-Missing character: There is no у in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no к in font cmr12!
-Missing character: There is no ц in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no й in font cmr12!
-Missing character: There is no п in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no ь in font cmr12!
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrerev invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrp invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 872.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 872.
-
-Missing character: There is no к in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no э in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no п in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no я in font cmr12!
-[26 <./sigmoid.PNG>] [27]
-<gradstep.PNG, id=535, 339.51843pt x 145.29282pt>
-File: gradstep.PNG Graphic file (type png)
-<use gradstep.PNG>
-Package pdftex.def Info: gradstep.PNG  used on input line 923.
-(pdftex.def)             Requested size: 305.56375pt x 130.76231pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 972--972
-
- []
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 955--973
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 61--68
 [] 
  []
 
-[28 <./gradstep.PNG>] [29]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
+[1
 
-LaTeX Warning: Command \cyrg invalid in math mode on input line 1023.
+{C:/Users/afadeev/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
 
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrp invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrz invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrp invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrd invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 1023.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 1023.
-
-Missing character: There is no г in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no п in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no з in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no й in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no п in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no д in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no л in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no я in font cmr12!
-<sema.PNG, id=555, 660.96938pt x 313.9228pt>
-File: sema.PNG Graphic file (type png)
-<use sema.PNG>
-Package pdftex.def Info: sema.PNG  used on input line 1032.
-(pdftex.def)             Requested size: 396.58469pt x 188.35512pt.
-[30]
-<shake.PNG, id=564, 679.78969pt x 117.43875pt>
-File: shake.PNG Graphic file (type png)
-<use shake.PNG>
-Package pdftex.def Info: shake.PNG  used on input line 1051.
-(pdftex.def)             Requested size: 407.87695pt x 70.46378pt.
-<proje.PNG, id=565, 744.53156pt x 341.77687pt>
-File: proje.PNG Graphic file (type png)
-<use proje.PNG>
-Package pdftex.def Info: proje.PNG  used on input line 1059.
-(pdftex.def)             Requested size: 446.72238pt x 205.0677pt.
- [31 <./sema.PNG> <./shake.PNG>]
-Overfull \hbox (13.41109pt too wide) in paragraph at lines 1071--1073
-\T2A/cmr/m/n/12 ще на-зы-ва-е-мые \T2A/cmr/m/it/12 мат-ри-ца-ми слов-слов \T2A/
-cmr/m/n/12 или \T2A/cmr/m/it/12 мат-ри-ца-ми терминов-контекста \T2A/cmr/m/n/12
- (\T2A/cmr/m/it/12 term-term matrix\T2A/cmr/m/n/12 ,
- []
-
-[32 <./proje.PNG>] [33] [34]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-[35
-
-] [36]
-<SchemeFinal.PNG, id=625, 682.04813pt x 381.67593pt>
-File: SchemeFinal.PNG Graphic file (type png)
-<use SchemeFinal.PNG>
-Package pdftex.def Info: SchemeFinal.PNG  used on input line 1249.
-(pdftex.def)             Requested size: 409.23204pt x 229.00732pt.
-
-Overfull \hbox (0.69717pt too wide) in paragraph at lines 1265--1266
-[]\T2A/cmr/m/n/12 Эквайринг: опла-та кар-той. Здесь встре-ча-ют-ся со-об-ще-ния
- о том, что при по-куп-ке какого-
- []
-
-[37 <./SchemeFinal.PNG>] [38]
-<input_data.jpg, id=642, 593.21625pt x 1284.8pt>
-File: input_data.jpg Graphic file (type jpg)
-<use input_data.jpg>
-Package pdftex.def Info: input_data.jpg  used on input line 1279.
-(pdftex.def)             Requested size: 177.96625pt x 385.44298pt.
-
-Overfull \hbox (16.04105pt too wide) in paragraph at lines 1300--1300
-|[]\T2A/cmr/bx/n/17.28 Разработанное ал-го-рит-ми-че-ское и ма-те-ма-ти-че-ское
- обес-
- []
-
-[39 <./input_data.jpg>] [40]
-<derihlet_scheme.PNG, id=659, 948.54375pt x 408.77719pt>
-File: derihlet_scheme.PNG Graphic file (type png)
-<use derihlet_scheme.PNG>
-Package pdftex.def Info: derihlet_scheme.PNG  used on input line 1369.
-(pdftex.def)             Requested size: 474.2707pt x 204.38809pt.
- [41] [42 <./derihlet_scheme.PNG>] [43] [44
-
-]
-[45
-
-]
-Underfull \hbox (badness 4859) in paragraph at lines 1488--1489
-[]\T2A/cmr/m/n/12 Tolles, Juliana; Meurer, William J (2016). "Logistic Regressi
-on Relating Patient
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1517.
-[46pdfTeX warning (ext4): destination with the same identifier (name{cite.20}) 
-has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1517 \end{document}
-                     ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1517.
- (document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1517.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1517.
-
-Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 10FD604DF66593ECADA559826D0A039D;14511.
+(presudocode.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
+Package rerunfilecheck Info: File `presudocode.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1517.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  ) 
 Here is how much of TeX's memory you used:
- 23643 strings out of 492482
- 394569 string characters out of 3131019
- 542324 words of memory out of 3000000
- 27485 multiletter control sequences out of 15000+200000
- 548603 words of font info for 58 fonts, out of 3000000 for 9000
+ 23119 strings out of 492482
+ 387814 string characters out of 3131019
+ 532006 words of memory out of 3000000
+ 27244 multiletter control sequences out of 15000+200000
+ 538685 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,12n,67p,1351b,524s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,6n,67p,328b,347s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\
-labx1728.pk> <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\lati1200.pk> <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fon
-ts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\afadeev\AppData\Local\MiKT
-eX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\afadeev\AppData\
-Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\afadee
-v\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Us
-ers\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.
-pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on document.pdf (46 pages, 1461072 bytes).
+larm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.
+pfb>
+Output written on presudocode.pdf (1 page, 19455 bytes).
 PDF statistics:
- 1338 PDF objects out of 1440 (max. 8388607)
- 249 named destinations out of 1000 (max. 500000)
- 513 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 44 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
