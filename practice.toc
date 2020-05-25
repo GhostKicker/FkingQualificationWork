@@ -1,0 +1,55 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{Введение}{4}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Аналитический обзор литературы}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Базовые методы и подходы обработки текста}{5}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Регулярные выражения}{5}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Нормализация текста}{7}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Byte Pair Encoding}{7}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}WordPiece}{8}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}Нормализация слов, лемматизация, стемминг}{9}{subsection.1.1.5}%
+\contentsline {subsection}{\numberline {1.1.6}Расстояние Левенштейна}{9}{subsection.1.1.6}%
+\contentsline {section}{\numberline {1.2}Языковые модели основанные на N-граммах.}{10}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}N-граммы}{10}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Оценка языковых моделей}{12}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Перплексия}{13}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Неизвестные слова}{14}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Сглаживание}{14}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}Интерполяция}{14}{subsection.1.2.6}%
+\contentsline {section}{\numberline {1.3}Подходы и методы, основанные на наивном Байесе.}{15}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Наивный Байес}{15}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Наивный Байес как лингвистическая модель}{17}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Метрики: точность, полнота, F-мера}{18}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Тестовые выборки и кросс-валидация}{20}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}Вероятностные тематические модели}{20}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Вероятностный латентный семантический анализ}{21}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Латентное размещение Дирихле}{22}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Распределение Дирихле}{22}{subsection.1.4.3}%
+\contentsline {section}{\numberline {1.5}Логистическая регрессия}{23}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Генеративные и дискриминативные классификаторы}{24}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Компоненты вероятностного классификатора для машинного обучения}{24}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Классификация: сигмоида}{25}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Обучение логистической регрессии}{26}{subsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.5.5}Функция потерь кросс-энтропии}{27}{subsection.1.5.5}%
+\contentsline {subsection}{\numberline {1.5.6}Градиентный спуск}{27}{subsection.1.5.6}%
+\contentsline {subsection}{\numberline {1.5.7}Градиент для логистической регрессии}{28}{subsection.1.5.7}%
+\contentsline {subsection}{\numberline {1.5.8}Алгоритм стохастического градиентного спуска}{29}{subsection.1.5.8}%
+\contentsline {subsection}{\numberline {1.5.9}Регуляризация}{29}{subsection.1.5.9}%
+\contentsline {section}{\numberline {1.6}Векторные представления и семантики}{30}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Векторные семантики}{30}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Слова и векторы}{31}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Слова как векторы}{32}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}Косинус для измерения расстояния между словами}{32}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}TF-IDF: веса в терминах векторов}{33}{subsection.1.6.5}%
+\contentsline {subsection}{\numberline {1.6.6}Word2vec}{34}{subsection.1.6.6}%
+\contentsline {chapter}{\numberline {2}Специальная часть}{35}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Содержательная постановка задачи}{35}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Математическая постановка задачи}{36}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Функциональная схема решения}{37}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Описание предметной области}{37}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Формат входных и выходных данных}{39}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Разработанное алгоритмическое и математическое обеспечение}{40}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Модуль нормализации текста}{40}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Модуль очистки текста}{41}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Модуль кластеризации}{41}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}Вывод системы}{43}{subsection.2.6.4}%
+\contentsline {chapter}{Заключение}{44}{chapter*.20}%

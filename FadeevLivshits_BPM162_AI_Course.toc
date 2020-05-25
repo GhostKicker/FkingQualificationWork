@@ -1,0 +1,12 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{\numberline {1}Постановка задачи}{3}%
+\contentsline {chapter}{\numberline {2}Использованные средства разработки и системные требования}{4}%
+\contentsline {chapter}{\numberline {3}Создание вопросно-ответной системы}{5}%
+\contentsline {section}{\numberline {3.1}Архитектура}{5}%
+\contentsline {section}{\numberline {3.2}Представление знаний и поиск ответов}{5}%
+\contentsline {chapter}{\numberline {4}Описание клиентского приложения}{7}%
+\contentsline {section}{\numberline {4.1}Общие сведения}{7}%
+\contentsline {section}{\numberline {4.2}Описание экранных форм}{7}%
+\contentsline {chapter}{\numberline {5}Выводы}{9}%
+\contentsline {chapter}{\numberline {6}Приложение А}{10}%
+\contentsline {section}{\numberline {6.1}Код программы}{10}%

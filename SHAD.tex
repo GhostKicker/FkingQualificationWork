@@ -1,0 +1,147 @@
+\documentclass[a4paper,12pt,preview]{report} %размер бумаги устанавливаем А4, шрифт 12пунктов
+\usepackage[english,russian]{babel}%используем русский и английский языки с переносами 	
+\usepackage[T2A]{fontenc}
+\usepackage{changepage}
+\usepackage{lipsum}
+\usepackage{indentfirst}
+\usepackage[labelsep=period]{caption}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage[utf8]{inputenc}%включаем свою кодировку: koi8-r или utf8 в UNIX, cp1251 в Windows
+\usepackage[english,russian]{babel}%используем русский и английский языки с переносами 	
+\usepackage{amssymb,amsfonts,amsmath,mathtext,cite,enumerate,float} %подключаем нужные пакеты расширений
+\usepackage{graphicx} %хотим вставлять в диплом рисунки?
+\usepackage{ragged2e}
+\usepackage{fancyhdr}
+\usepackage{indentfirst}
+\usepackage{titlesec}
+\usepackage{listings}
+\lstset{
+	basicstyle=\small\ttfamily,
+	columns=flexible,
+	breaklines=true
+}
+\graphicspath{{images/}}%п\usepackage{trd}уть к рисункам
+
+\makeatletter
+\renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку:
+\makeatother
+
+\usepackage{geometry} % Меняем поля страницы
+\geometry{left=2cm}% левое поле
+\geometry{right=1.5cm}% правое поле
+\geometry{top=3cm}% верхнее поле
+\geometry{bottom=2cm}% нижнее поле
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks,
+	citecolor=black,
+	filecolor=black,
+	linkcolor=black,
+	urlcolor=black
+}
+
+\renewcommand{\theenumi}{\arabic{enumi}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumi}{\arabic{enumi}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\theenumii}{.\arabic{enumii}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\theenumiii}{.\arabic{enumiii}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}% Меняем везде перечисления на цифра.цифра
+
+\newcommand{\doublerule}[1][.4pt]{%
+	\noindent
+	\makebox[0pt][l]{\rule[.7ex]{\linewidth}{#1}}%
+	\rule[.3ex]{\linewidth}{#1}}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Фадеев Александр Юрьевич}
+\rfoot{\thepage}
+
+\titleformat{\chapter}[hang]
+{\normalfont\huge\bfseries}{\thechapter.}{20pt}{}
+
+
+\begin{document}
+	\begin{center}
+		\Huge ЗАДАЧА C2
+	\end{center}
+	
+	Задачу можно решить <<динамическим программированием>>.\\
+	
+	Пусть \texttt{dp[a][b] = prob} - текущее состояние.
+	
+	\texttt{a} - кол-во выпавших орлов.
+	
+	\texttt{b} - кол-во выпавших орлов.
+	
+	\texttt{prob} - вероятность попасть в это состояние. \\
+	
+	База динамики: \texttt{dp[0][0] = 1}
+	
+	Переходы динамики:
+	
+	\texttt{dp[a+1][b] += dp[a][b] * p}
+	
+	
+	\texttt{dp[a][b+1] += dp[a][b] * p} \\
+	
+	Если у состояния \texttt{a >= 2} и \texttt{b >= 1}, то к ответу прибавляется \texttt{(a + b) * prob } этого состояния. \\
+	
+	Так как требуется точность 4 зн. после запятой, можно считать результат только для довольно небольших (a + b). \\
+	
+	Код на C++
+	
+	\begin{lstlisting}
+	
+#include <bits/stdc++.h>
+using namespace std;
+
+double p = 1.0 / 6;
+double q = 5.0 / 6;
+
+int main(){
+
+    double res = 0;
+    map<pair<int,int>, double> dp;
+    dp[pair<int,int>(0,0)] = 1;
+    
+    for (int i = 0; i < 10000; ++i){
+        if (i % 500 == 0) cerr << i << " " << res << endl;
+        map<pair<int,int>, double> dpswap;
+        for (auto& it : dp){
+            pair<int,int> nxt;
+            double next_p;
+
+            nxt = it.first;
+            nxt.first += 1;
+            next_p = it.second * p;
+            if (nxt.first >= 2 && nxt.second >= 1) 
+                res += (nxt.first + nxt.second) * next_p;
+            else
+                dpswap[nxt] += next_p;
+
+            nxt = it.first;
+            nxt.second += 1;
+            next_p = it.second * q;
+            if (nxt.first >= 2 && nxt.second >= 1)
+                res += (nxt.first + nxt.second) * next_p;
+            else
+                dpswap[nxt] += next_p;
+        }
+        swap(dp, dpswap);
+    }
+
+    cout << res;
+
+    return 0;
+}
+
+	
+	\end{lstlisting}
+	
+
+
+\end{document}
+
+

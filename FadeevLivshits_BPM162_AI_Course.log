@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  20 MAY 2020 11:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  20 MAY 2020 12:07
 entering extended mode
-**./otchet_db_Fadeev_BPM162.tex
-(otchet_db_Fadeev_BPM162.tex
+**./FadeevLivshits_BPM162_AI_Course.tex
+(FadeevLivshits_BPM162_AI_Course.tex
 LaTeX2e <2019-10-01> patch level 3
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
 Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
@@ -464,16 +464,6 @@ Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lipsum\lipsum.ltd.tex"
 File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen136
-\ar@mcellbox=\box46
-\extrarowheight=\dimen137
-\NC@list=\toks14
-\extratabsurround=\skip49
-\backup@length=\skip50
-\ar@cellbox=\box47
-)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
@@ -486,15 +476,15 @@ Package caption3 Info: TeX engine: e-TeX on input line 61.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks14
 )
-\captionmargin=\dimen138
-\captionmargin@=\dimen139
-\captionwidth=\dimen140
-\caption@tempdima=\dimen141
-\caption@indent=\dimen142
-\caption@parindent=\dimen143
-\caption@hangindent=\dimen144
+\captionmargin=\dimen136
+\captionmargin@=\dimen137
+\captionwidth=\dimen138
+\caption@tempdima=\dimen139
+\caption@indent=\dimen140
+\caption@parindent=\dimen141
+\caption@hangindent=\dimen142
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count185
@@ -502,7 +492,7 @@ Package caption Info: Standard document class detected.
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
 Package: amsmath 2019/11/16 v2.17d AMS math features
-\@mathmargin=\skip51
+\@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
@@ -510,12 +500,12 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
-\ex@=\dimen145
+\@emptytoks=\toks15
+\ex@=\dimen143
 ))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen146
+\pmbraise@=\dimen144
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
@@ -530,9 +520,9 @@ LaTeX Info: Redefining \overline on input line 389.
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box48
-\strutbox@=\box49
-\big@size=\dimen147
+\Mathstrutbox@=\box46
+\strutbox@=\box47
+\big@size=\dimen145
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \macc@depth=\count192
@@ -540,21 +530,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip16
 \c@parentequation=\count194
 \dspbrk@lvl=\count195
-\tag@help=\toks17
+\tag@help=\toks16
 \row@=\count196
 \column@=\count197
 \maxfields@=\count198
-\andhelp@=\toks18
-\eqnshift@=\dimen148
-\alignsep@=\dimen149
-\tagshift@=\dimen150
-\tagwidth@=\dimen151
-\totwidth@=\dimen152
-\lineht@=\dimen153
-\@envbody=\toks19
-\multlinegap=\skip52
-\multlinetaggap=\skip53
-\mathdisplay@stack=\toks20
+\andhelp@=\toks17
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
 LaTeX Info: Redefining \[ on input line 2858.
 LaTeX Info: Redefining \] on input line 2859.
 )
@@ -719,8 +709,8 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks21
-\inpenc@posthook=\toks22
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -744,15 +734,15 @@ Package: cite 2015/02/27  v 5.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks23
+\@enLab=\toks22
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count199
-\float@exts=\toks24
-\float@box=\box50
-\@float@everytoks=\toks25
-\@floatcapt=\box51
+\float@exts=\toks23
+\float@box=\box48
+\@float@everytoks=\toks24
+\@floatcapt=\box49
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -771,8 +761,8 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen154
-\Gin@req@width=\dimen155
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/ragged2e\ragged2e.sty"
 Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
@@ -780,58 +770,33 @@ Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\CenteringLeftskip=\skip54
-\RaggedLeftLeftskip=\skip55
-\RaggedRightLeftskip=\skip56
-\CenteringRightskip=\skip57
-\RaggedLeftRightskip=\skip58
-\RaggedRightRightskip=\skip59
-\CenteringParfillskip=\skip60
-\RaggedLeftParfillskip=\skip61
-\RaggedRightParfillskip=\skip62
-\JustifyingParfillskip=\skip63
-\CenteringParindent=\skip64
-\RaggedLeftParindent=\skip65
-\RaggedRightParindent=\skip66
-\JustifyingParindent=\skip67
+\CenteringLeftskip=\skip52
+\RaggedLeftLeftskip=\skip53
+\RaggedRightLeftskip=\skip54
+\CenteringRightskip=\skip55
+\RaggedLeftRightskip=\skip56
+\RaggedRightRightskip=\skip57
+\CenteringParfillskip=\skip58
+\RaggedLeftParfillskip=\skip59
+\RaggedRightParfillskip=\skip60
+\JustifyingParfillskip=\skip61
+\CenteringParindent=\skip62
+\RaggedLeftParindent=\skip63
+\RaggedRightParindent=\skip64
+\JustifyingParindent=\skip65
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box52
-\beforetitleunit=\skip68
-\aftertitleunit=\skip69
-\ttl@plus=\dimen156
-\ttl@minus=\dimen157
-\ttl@toksa=\toks26
-\titlewidth=\dimen158
-\titlewidthlast=\dimen159
-\titlewidthfirst=\dimen160
+\ttl@box=\box50
+\beforetitleunit=\skip66
+\aftertitleunit=\skip67
+\ttl@plus=\dimen154
+\ttl@minus=\dimen155
+\ttl@toksa=\toks25
+\titlewidth=\dimen156
+\titlewidthlast=\dimen157
+\titlewidthfirst=\dimen158
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
-\lst@mode=\count266
-\lst@gtempboxa=\box53
-\lst@token=\toks27
-\lst@length=\count267
-\lst@currlwidth=\dimen161
-\lst@column=\count268
-\lst@pos=\count269
-\lst@lostspace=\dimen162
-\lst@width=\dimen163
-\lst@newlines=\count270
-\lst@lineno=\count271
-\lst@maxwidth=\dimen164
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
-File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count272
-\lst@skipnumbers=\count273
-\lst@framebox=\box54
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
-File: listings.cfg 2020/03/24 1.8d listings configuration
-))
-Package: listings 2020/03/24 1.8d (Carsten Heinz)
-
 ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
@@ -841,75 +806,73 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
 Package: iftex 2019/11/07 v1.0c TeX engine tests
 ))
-\Gm@cnth=\count274
-\Gm@cntv=\count275
-\c@Gm@tempcnt=\count276
-\Gm@bindingoffset=\dimen165
-\Gm@wd@mp=\dimen166
-\Gm@odd@mp=\dimen167
-\Gm@even@mp=\dimen168
-\Gm@layoutwidth=\dimen169
-\Gm@layoutheight=\dimen170
-\Gm@layouthoffset=\dimen171
-\Gm@layoutvoffset=\dimen172
-\Gm@dimlist=\toks28
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks26
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
 
 LaTeX Warning: Unused global option(s):
     [preview].
 
-(otchet_db_Fadeev_BPM162.aux)
-\openout1 = `otchet_db_Fadeev_BPM162.aux'.
+(FadeevLivshits_BPM162_AI_Course.aux)
+\openout1 = `FadeevLivshits_BPM162_AI_Course.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
-1.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+8.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    ... okay on input line 48.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
-Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count277
-\scratchdimen=\dimen173
-\scratchbox=\box55
-\nofMPsegments=\count278
-\nofMParguments=\count279
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count280
-\MPscratchDim=\dimen174
-\MPnumerator=\count281
-\makeMPintoPDFobject=\count282
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count269
+\scratchdimen=\dimen167
+\scratchbox=\box51
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen168
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks28
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 51.
-\c@lstlisting=\count283
+LaTeX Info: Redefining \selectfont on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -946,833 +909,125 @@ LaTeX Info: Redefining \selectfont on input line 51.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
  []\T2A/cmr/m/n/12 Выполнил
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
  []\T2A/cmr/m/n/12 Студент груп-пы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
  []\T2A/cmr/m/n/12 БПМ-16-2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
  []\T2A/cmr/m/n/12 Фадеев А.Ю.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
  []\T2A/cmr/m/n/12 Проверил:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
- []\T2A/cmr/m/n/12 доц. Ко-жа-ри-нов А.С.
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+ []\T2A/cmr/m/n/12 доц., к.т.н. А.С. Ко-жа-ри-нов
  []
 
 [1
 
 {C:/Users/afadeev/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(otchet_db_Fadeev_BPM162.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+(FadeevLivshits_BPM162_AI_Course.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write3
-\openout3 = `otchet_db_Fadeev_BPM162.toc'.
+\openout3 = `FadeevLivshits_BPM162_AI_Course.toc'.
 
  [2
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-
-Overfull \hbox (1.31487pt too wide) in paragraph at lines 95--95
-|[]\T2A/cmr/bx/n/24.88 Список ос-нов-ных ис-поль-зу-е-мых со-кра-
- []
-
 [3
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-
-Overfull \hbox (1.56912pt too wide) in paragraph at lines 108--108
-|[]\T2A/cmr/bx/n/17.28 Назначение раз-ра-ба-ты-ва-е-мой ин-фор-ма-ци-он-ной си-
-сте-
- []
-
 [4
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 [5
 
-]
+] [6]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
-<ER.PNG, id=21, 421.575pt x 965.10562pt>
-File: ER.PNG Graphic file (type png)
-<use ER.PNG>
-Package pdftex.def Info: ER.PNG  used on input line 147.
-(pdftex.def)             Requested size: 252.94695pt x 579.06784pt.
-[6
+<win.PNG, id=24, 461.47406pt x 201.75375pt>
+File: win.PNG Graphic file (type png)
+<use win.PNG>
+Package pdftex.def Info: win.PNG  used on input line 132.
+(pdftex.def)             Requested size: 461.47292pt x 201.75325pt.
+<q11.PNG, id=26, 461.47406pt x 201.75375pt>
+File: q11.PNG Graphic file (type png)
+<use q11.PNG>
+Package pdftex.def Info: q11.PNG  used on input line 141.
+(pdftex.def)             Requested size: 461.47292pt x 201.75325pt.
+[7
 
-] [7 <./ER.PNG>] [8]
+ <./win.PNG>]
+<q1.PNG, id=32, 461.47406pt x 201.75375pt>
+File: q1.PNG Graphic file (type png)
+<use q1.PNG>
+Package pdftex.def Info: q1.PNG  used on input line 149.
+(pdftex.def)             Requested size: 461.47292pt x 201.75325pt.
+ [8 <./q11.PNG> <./q1.PNG>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
-<autorization.PNG, id=35, 266.49562pt x 96.36pt>
-File: autorization.PNG Graphic file (type png)
-<use autorization.PNG>
-Package pdftex.def Info: autorization.PNG  used on input line 198.
-(pdftex.def)             Requested size: 266.49496pt x 96.35974pt.
-<members.PNG, id=36, 418.56375pt x 488.57532pt>
-File: members.PNG Graphic file (type png)
-<use members.PNG>
-Package pdftex.def Info: members.PNG  used on input line 206.
-(pdftex.def)             Requested size: 418.56271pt x 488.57413pt.
+
+Overfull \hbox (5.08319pt too wide) in paragraph at lines 158--159
+[]\T2A/cmr/m/n/12 В рам-ках дан-ной кур-со-вой ра-бо-ты бы-ли ис-сле-до-ва-ны п
+рин-ци-пы ра-бо-ты вопросно-ответных
+ []
+
 [9
 
- <./autorization.PNG>]
-<divisions.PNG, id=41, 420.06938pt x 490.08093pt>
-File: divisions.PNG Graphic file (type png)
-<use divisions.PNG>
-Package pdftex.def Info: divisions.PNG  used on input line 215.
-(pdftex.def)             Requested size: 420.06836pt x 490.07974pt.
- [10 <./members.PNG>]
-<onediv.PNG, id=46, 250.68657pt x 423.08063pt>
-File: onediv.PNG Graphic file (type png)
-<use onediv.PNG>
-Package pdftex.def Info: onediv.PNG  used on input line 223.
-(pdftex.def)             Requested size: 250.68594pt x 423.07959pt.
- [11 <./divisions.PNG>]
-<alldivs.PNG, id=51, 250.68657pt x 423.08063pt>
-File: alldivs.PNG Graphic file (type png)
-<use alldivs.PNG>
-Package pdftex.def Info: alldivs.PNG  used on input line 229.
-(pdftex.def)             Requested size: 250.68594pt x 423.07959pt.
- [12 <./onediv.PNG>]
-<teams.PNG, id=56, 423.08063pt x 490.08093pt>
-File: teams.PNG Graphic file (type png)
-<use teams.PNG>
-Package pdftex.def Info: teams.PNG  used on input line 236.
-(pdftex.def)             Requested size: 423.07959pt x 490.07974pt.
- [13 <./alldivs.PNG>]
-<competitions.PNG, id=62, 419.31656pt x 488.57532pt>
-File: competitions.PNG Graphic file (type png)
-<use competitions.PNG>
-Package pdftex.def Info: competitions.PNG  used on input line 247.
-(pdftex.def)             Requested size: 419.31552pt x 488.57413pt.
- [14 <./teams.PNG>]
-<workers.PNG, id=67, 419.31656pt x 490.08093pt>
-File: workers.PNG Graphic file (type png)
-<use workers.PNG>
-Package pdftex.def Info: workers.PNG  used on input line 259.
-(pdftex.def)             Requested size: 419.31552pt x 490.07974pt.
- [15 <./competitions.PNG>]
-<classes.PNG, id=72, 419.31656pt x 488.57532pt>
-File: classes.PNG Graphic file (type png)
-<use classes.PNG>
-Package pdftex.def Info: classes.PNG  used on input line 269.
-(pdftex.def)             Requested size: 419.31552pt x 488.57413pt.
-
-[16 <./workers.PNG>] [17 <./classes.PNG>]
+]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
-[18
-
-]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 7.
-[19
-
-]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-292.
+164.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\t2acmtt.fd"
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-Overfull \hbox (131.77298pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Database [CompepativeProgrammingSection]   
- Script Date: 4/23/2020 3:10:51 AM ******/[] 
- []
-
-
-Overfull \hbox (860.24509pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 ( NAME = N'CompepativeProgrammingSection', FILENAME = N'C:\P
-rogram Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\CompepativeProg
-rammingSection.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB
- )[] 
- []
-
-
-Overfull \hbox (897.28604pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 ( NAME = N'CompepativeProgrammingSection_log', FILENAME = N'
-C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\Compepative
-ProgrammingSection_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 6
-5536KB )[] 
- []
-
-
-Overfull \hbox (20.65012pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 EXEC [CompepativeProgrammingSection].[dbo].[sp_fulltext_data
-base] @action = 'enable'[] 
- []
-
-[20
+) [10
 
 ]
-Overfull \hbox (14.47662pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 ALTER DATABASE [CompepativeProgrammingSection] SET AUTO_UPDA
-TE_STATISTICS_ASYNC OFF[] 
- []
-
-
-Overfull \hbox (20.65012pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 ALTER DATABASE [CompepativeProgrammingSection] SET DATE_CORR
-ELATION_OPTIMIZATION OFF[] 
- []
-
-
-Overfull \hbox (70.03806pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 ALTER DATABASE [CompepativeProgrammingSection] SET FILESTREA
-M( NON_TRANSACTED_ACCESS = OFF )[] 
- []
-
-
-Overfull \hbox (20.65012pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 ALTER DATABASE [CompepativeProgrammingSection] SET TARGET_RE
-COVERY_TIME = 60 SECONDS[] 
- []
-
-
-Overfull \hbox (100.90552pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Table [dbo].[AssocClassesDivisions]    Scri
-pt Date: 4/23/2020 3:10:51 AM ******/[] 
- []
-
-
-Overfull \hbox (107.07901pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Table [dbo].[AssocCompepitionsTeams]    Scr
-ipt Date: 4/23/2020 3:10:51 AM ******/[] 
- []
-
-[21]
-Overfull \hbox (76.21155pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Table [dbo].[AssocPersonsTeams]    Script D
-ate: 4/23/2020 3:10:51 AM ******/[] 
- []
-
-
-Overfull \hbox (14.47662pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Table [dbo].[Classes]    Script Date: 4/23/
-2020 3:10:51 AM ******/[] 
- []
-
-
-Overfull \hbox (323.15125pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE
-_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY][] 
- []
-
-
-Overfull \hbox (32.9971pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Table [dbo].[Classrooms]    Script Date: 4/
-23/2020 3:10:51 AM ******/[] 
- []
-
-
-Overfull \hbox (323.15125pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE
-_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY][] 
- []
-
-
-Overfull \hbox (45.34409pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Table [dbo].[Competitions]    Script Date: 
-4/23/2020 3:10:51 AM ******/[] 
- []
-
-[22]
-Overfull \hbox (323.15125pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE
-_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY][] 
- []
-
-
-Overfull \hbox (26.82361pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Table [dbo].[Divisions]    Script Date: 4/2
-3/2020 3:10:51 AM ******/[] 
- []
-
-
-Overfull \hbox (323.15125pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE
-_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY][] 
- []
-
-
-Overfull \hbox (14.47662pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Table [dbo].[Persons]    Script Date: 4/23/
-2020 3:10:51 AM ******/[] 
- []
-
-
-Overfull \hbox (323.15125pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE
-_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY][] 
- []
-
-
-Overfull \hbox (20.65012pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Table [dbo].[Students]    Script Date: 4/23
-/2020 3:10:51 AM ******/[] 
- []
-
-[23]
-Overfull \hbox (2.12964pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Table [dbo].[Teams]    Script Date: 4/23/20
-20 3:10:51 AM ******/[] 
- []
-
-
-Overfull \hbox (323.15125pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE
-_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY][] 
- []
-
-
-Overfull \hbox (14.47662pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 /****** Object:  Table [dbo].[Workers]    Script Date: 4/23/
-2020 3:10:51 AM ******/[] 
- []
-
-
-Overfull \hbox (323.15125pt too wide) in paragraph at lines 572--572
-[]\T2A/cmtt/m/n/12 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE
-_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY][] 
- []
-
-[24] [25]
-Overfull \hbox (20.65012pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_members.append([sg.InputText(key='firstname_add_memb
-ers'), sg.Text(u'Имя')])[] 
- []
-
-
-Overfull \hbox (51.51758pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_members.append([sg.InputText(key='secondname_add_mem
-bers'), sg.Text(u'Фамилия')])[] 
- []
-
-
-Overfull \hbox (39.1706pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_members.append([sg.InputText(key='surname_add_member
-s'), sg.Text(u'Отчество')])[] 
- []
-
-
-Overfull \hbox (823.20413pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_members.append([sg.InputText(key='year_add_members',
- size=(5, 1)), sg.InputText(key='month_add_members', size=(3, 1)), sg.InputText
-(key='day_add_members', size=(3, 1)), sg.Text(u'Год/Месяц/День рождения')])[] 
- []
-
-
-Overfull \hbox (8.30313pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 cursor.execute('DELETE FROM '+db_name+'.dbo.'+'Persons W
-HERE ID =' + str(ind))[] 
- []
-
-[26]
-Overfull \hbox (218.20187pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 if (values['year_add_members'] != '' and values['month_a
-dd_members'] != '' and values['day_add_members'] != ''):[] 
- []
-
-
-Overfull \hbox (224.37537pt too wide) in paragraph at lines 1457--1457
-[]        \T2A/cmtt/m/n/12 date = '\'' + values['year_add_members']+'-'+values[
-'month_add_members']+'-'+values['day_add_members'] + '\''[] 
- []
-
-
-Overfull \hbox (249.06934pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = u'INSERT INTO '+db_name+'.dbo.'+'Persons (FirstN
-ame, LastName, SurName, BirthDate) VALUES ' + to_insert + ';'[] 
- []
-
-
-Overfull \hbox (304.63077pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 tab_divisions.append([sg.Listbox([], key='allmembers_divisio
-n', size=(33, 20)), sg.Listbox([], key='alldivision', size=(33, 20))])[] 
- []
-
-
-Overfull \hbox (724.42825pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_divisions.append([sg.Button(u'Добавить в дивизион', 
-key='button_div_add'), sg.Button(u'Удалить из дивизиона', key='button_div_remov
-e'), sg.Button(u'Показать состав', key='show_all_in_div')])[] 
- []
-
-
-Overfull \hbox (70.03806pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_divisions.append([sg.InputText(key='add_division'), 
-sg.Text(u'Название дивизиона')])[] 
- []
-
-
-Overfull \hbox (329.32474pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_divisions.append([sg.Button(u'Добавить дивизион', ke
-y='division_add'), sg.Button(u'Удалить дивизион', key='division_remove')])[] 
- []
-
-
-Overfull \hbox (94.73203pt too wide) in paragraph at lines 1457--1457
-[]        \T2A/cmtt/m/n/12 cursor.execute('SELECT * FROM '+db_name+'.dbo.'+'Stu
-dents WHERE IDdiv = ' + str(row[0]))[] 
- []
-
-[27]
-Overfull \hbox (94.73203pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = u'INSERT INTO '+db_name+'.dbo.'+'Students (IDstu
-d, IDdiv) VALUES ' + to_insert + ';'[] 
- []
-
-
-Overfull \hbox (255.24283pt too wide) in paragraph at lines 1457--1457
-[]        \T2A/cmtt/m/n/12 cursor.execute('DELETE FROM '+db_name+'.dbo.'+'Stude
-nts WHERE IDstud = ' + indmem + ' AND ' + 'IDdiv = ' + inddiv)[] 
- []
-
-
-Overfull \hbox (230.54886pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 cursor.execute('DELETE FROM '+db_name+'.dbo.'+'Students 
-WHERE IDstud = ' + indmem + ' AND ' + 'IDdiv = ' + inddiv)[] 
- []
-
-[28]
-Overfull \hbox (249.06934pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = 'SELECT P.* FROM Persons P INNER JOIN Students S
- ON P.ID = S.Idstud WHERE IDdiv = ' + inddiv + ' ORDER BY ID'[] 
- []
-
-
-Overfull \hbox (273.7633pt too wide) in paragraph at lines 1457--1457
-[]        \T2A/cmtt/m/n/12 query = 'SELECT P.* FROM Persons P INNER JOIN Studen
-ts S ON P.ID = S.Idstud WHERE IDdiv = ' + inddiv + ' ORDER BY ID'[] 
- []
-
-[29]
-Overfull \hbox (63.86456pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = u'INSERT INTO '+db_name+'.dbo.'+'Divisions (DivN
-ame) VALUES ' + to_insert + ';'[] 
- []
-
-
-Overfull \hbox (20.65012pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 cursor.execute('DELETE FROM '+db_name+'.dbo.'+'Divisions
- WHERE ID =' + str(ind))[] 
- []
-
-
-Overfull \hbox (156.46695pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_teams.append([sg.InputText(key='inputtext_team_name'
-, size=(30, 1)), sg.Text('Название команды')])[] 
- []
-
-
-Overfull \hbox (144.11996pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_teams.append([sg.Combo([], key='first_team_member', 
-size=(30, 20)), sg.Text('Первый участник')])[] 
- []
-
-
-Overfull \hbox (150.29346pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_teams.append([sg.Combo([], key='second_team_member',
- size=(30, 20)), sg.Text('Второй участник')])[] 
- []
-
-
-Overfull \hbox (144.11996pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_teams.append([sg.Combo([], key='third_team_member', 
-size=(30, 20)), sg.Text('Третий участник')])[] 
- []
-
-
-Overfull \hbox (693.56079pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_teams.append([sg.Listbox([], key='listbox_teams', si
-ze=(30, 20)), sg.Column([[sg.Button('Удалить', key='button_delete_team')], [sg.
-Button('Показать состав', key='button_show_team')]])])[] 
- []
-
-
-Overfull \hbox (384.88617pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_teams.append([sg.Listbox([], key='listbox_teams', si
-ze=(30, 20)), sg.Column([[sg.Button('Показать состав', key='button_show_team')]
-])])[] 
- []
-
-
-Overfull \hbox (137.94647pt too wide) in paragraph at lines 1457--1457
-[]        \T2A/cmtt/m/n/12 cursor.execute('SELECT * FROM '+db_name+'.dbo.AssocP
-ersonsTeams WHERE IDteam = ' + str(row[0]))[] 
- []
-
-[30]
-Overfull \hbox (230.54886pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 if values['first_team_member'] == '' and values['second_
-team_member'] == '' and values['third_team_member'] == '':[] 
- []
-
-
-Overfull \hbox (156.46695pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = 'INSERT INTO '+db_name+'.dbo.Teams (TeamName) VA
-LUES (N\''+values['inputtext_team_name']+'\')'[] 
- []
-
-
-Overfull \hbox (174.98743pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = 'SELECT ID FROM '+db_name+'.dbo.Teams WHERE Team
-Name = '+'N\''+values['inputtext_team_name']+'\''[] 
- []
-
-
-Overfull \hbox (113.2525pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 vals = [values['first_team_member'], values['second_team
-_member'], values['third_team_member']][] 
- []
-
-
-Overfull \hbox (230.54886pt too wide) in paragraph at lines 1457--1457
-[]            \T2A/cmtt/m/n/12 query = 'DELETE FROM '+db_name+'.dbo.AssocPerson
-sTeams WHERE IDperson = '+indpers+' AND IDteam = '+indname[] 
- []
-
-[31]
-Overfull \hbox (255.24283pt too wide) in paragraph at lines 1457--1457
-[]            \T2A/cmtt/m/n/12 query = 'INSERT INTO '+db_name+'.dbo.AssocPerson
-sTeams (IDperson, IDteam) VALUES'+'('+indpers+', '+indname+')'[] 
- []
-
-
-Overfull \hbox (329.32474pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = 'SELECT P.* FROM Persons P INNER JOIN AssocPerso
-nsTeams A ON P.ID = A.IDperson WHERE IDteam = ' + indteam + ' ORDER BY ID'[] 
- []
-
-
-Overfull \hbox (354.0187pt too wide) in paragraph at lines 1457--1457
-[]        \T2A/cmtt/m/n/12 query = 'SELECT P.* FROM Persons P INNER JOIN AssocP
-ersonsTeams A ON P.ID = A.IDperson WHERE IDteam = ' + indteam + ' ORDER BY ID'[
-] 
- []
-
-
-Overfull \hbox (421.92712pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 tab_competitions.append([sg.Listbox([], key='listbox_teams_c
-ompetitions', size=(33, 20)), sg.Listbox([], key='listbox_competitions', size=(
-33, 20))])[] 
- []
-
-
-Overfull \hbox (724.42825pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 tab_competitions.append([sg.Button('Добавить команду в сорев
-нование', key='button_add_team_to_competition'), sg.Button('Удалить команду из 
-соревнования', key='button_delete_team_from_competition')])[] 
- []
-
-
-Overfull \hbox (545.39697pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 tab_competitions.append([sg.Button('Показать соревнования ко
-манд', key='button_show_competitions'), sg.Button('Показать команды соревновани
-й', key='button_show_teams')])[] 
- []
-
-
-Overfull \hbox (162.64044pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 tab_competitions.append([sg.InputText(key='inputtext_competi
-tion_name'), sg.Text('Название соревнования')])[] 
- []
-
-[32]
-Overfull \hbox (32.9971pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 competition_date.append(sg.InputText(key='inputtext_competit
-ion_year', size = (5, 1)))[] 
- []
-
-
-Overfull \hbox (39.1706pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 competition_date.append(sg.InputText(key='inputtext_competit
-ion_month', size = (3, 1)))[] 
- []
-
-
-Overfull \hbox (26.82361pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 competition_date.append(sg.InputText(key='inputtext_competit
-ion_day', size = (3, 1)))[] 
- []
-
-
-Overfull \hbox (32.9971pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 competition_date.append(sg.InputText(key='inputtext_competit
-ion_hour', size = (3, 1)))[] 
- []
-
-
-Overfull \hbox (45.34409pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 competition_date.append(sg.InputText(key='inputtext_competit
-ion_minute', size = (3, 1)))[] 
- []
-
-
-Overfull \hbox (2.12964pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 competition_date.append(sg.Text('Дата соревнования: Формат -
-- ГГГГ ММ ДД ЧЧ ММ'))[] 
- []
-
-
-Overfull \hbox (113.2525pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 competition_duration.append(sg.InputText(key='inputtext_comp
-etition_duration_hour', size = (3, 1)))[] 
- []
-
-
-Overfull \hbox (125.59949pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 competition_duration.append(sg.InputText(key='inputtext_comp
-etition_duration_minute', size = (3, 1)))[] 
- []
-
-
-Overfull \hbox (8.30313pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 competition_duration.append(sg.Text('Длительность соревнован
-ия: Формат -- ЧЧ ММ'))[] 
- []
-
-
-Overfull \hbox (82.38504pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 tab_competitions.append([sg.InputText(key='inputtext_competi
-tion_address'), sg.Text('Адрес')])[] 
- []
-
-
-Overfull \hbox (483.66205pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 tab_competitions.append([sg.Button('Добавить соревнование', 
-key='button_add_competition'), sg.Button('Удалить соревнование', key='button_re
-move_competition')])[] 
- []
-
-
-Overfull \hbox (446.6211pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_competitions.append([sg.Listbox([], key='listbox_tea
-ms_competitions', size=(33, 20)), sg.Listbox([], key='listbox_competitions', si
-ze=(33, 20))])[] 
- []
-
-
-Overfull \hbox (570.09094pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_competitions.append([sg.Button('Показать соревновани
-я команд', key='button_show_competitions'), sg.Button('Показать команды соревно
-ваний', key='button_show_teams')])[] 
- []
-
-
-Overfull \hbox (8.30313pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 cursor.execute('SELECT ID, CompetitionName FROM '+db_nam
-e+'.dbo.Competitions')[] 
- []
-
-
-Overfull \hbox (168.81393pt too wide) in paragraph at lines 1457--1457
-[]        \T2A/cmtt/m/n/12 cursor.execute('SELECT * FROM '+db_name+'.dbo.AssocC
-ompepitionsTeams WHERE IDcomp = ' + str(row[0]))[] 
- []
-
-[33]
-Overfull \hbox (168.81393pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = u'INSERT INTO '+db_name+'.dbo.AssocCompepitionsT
-eams (IDcomp, IDteam) VALUES ' + to_insert + ';'[] 
- []
-
-
-Overfull \hbox (341.67172pt too wide) in paragraph at lines 1457--1457
-[]        \T2A/cmtt/m/n/12 cursor.execute('DELETE FROM '+db_name+'.dbo.AssocCom
-pepitionsTeams WHERE IDcomp = ' + indcomp + ' AND ' + 'IDteam = ' + indteam)[] 
-
- []
-
-
-Overfull \hbox (316.97775pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 cursor.execute('DELETE FROM '+db_name+'.dbo.AssocCompepi
-tionsTeams WHERE IDcomp = ' + indcomp + ' AND ' + 'IDteam = ' + indteam)[] 
- []
-
-[34]
-Overfull \hbox (20.65012pt too wide) in paragraph at lines 1457--1457
-[]        \T2A/cmtt/m/n/12 to_insert += values['inputtext_competition_duration_
-minute'] + ':00.0000000'[] 
- []
-
-
-Overfull \hbox (267.58981pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = 'INSERT INTO '+db_name+'.dbo.Competitions (Compe
-titionName, BeginDatetime, Duration, Address) VALUES '+to_insert[] 
- []
-
-
-Overfull \hbox (20.65012pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 cursor.execute('DELETE FROM '+db_name+'.dbo.Competitions
- WHERE ID =' + str(ind))[] 
- []
-
-[35]
-Overfull \hbox (378.71268pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = 'SELECT C.* FROM Competitions C INNER JOIN Assoc
-CompepitionsTeams A ON C.ID = A.IDcomp WHERE IDteam = ' + indteam + ' ORDER BY 
-ID'[] 
- []
-
-
-Overfull \hbox (403.40665pt too wide) in paragraph at lines 1457--1457
-[]        \T2A/cmtt/m/n/12 query = 'SELECT C.* FROM Competitions C INNER JOIN A
-ssocCompepitionsTeams A ON C.ID = A.IDcomp WHERE IDteam = ' + indteam + ' ORDER
- BY ID'[] 
- []
-
-
-Overfull \hbox (335.49823pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = 'SELECT T.* FROM Teams T INNER JOIN AssocCompepi
-tionsTeams A ON T.ID = A.IDteam WHERE IDcomp = ' + indcomp + ' ORDER BY ID'[] 
- []
-
-[36]
-Overfull \hbox (360.1922pt too wide) in paragraph at lines 1457--1457
-[]        \T2A/cmtt/m/n/12 query = 'SELECT T.* FROM Teams T INNER JOIN AssocCom
-pepitionsTeams A ON T.ID = A.IDteam WHERE IDcomp = ' + indcomp + ' ORDER BY ID'
-[] 
- []
-
-
-Overfull \hbox (2.12964pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 tab_workers_column.append([sg.InputText(key='inputtext_posit
-ion', size=(25, 1))])[] 
- []
-
-
-Overfull \hbox (2.12964pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 tab_workers_column.append([sg.InputText(key='inputtext_contr
-act', size=(25, 1))])[] 
- []
-
-
-Overfull \hbox (205.85489pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 tab_workers.append([sg.Listbox([], key='listbox_workers_memb
-ers', size=(33, 10)),  sg.Column(tab_workers_column)])[] 
- []
-
-[37]
-Overfull \hbox (32.9971pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = 'INSERT INTO Workers (Idcontract, IDworker, Posi
-tion) VALUES ' + to_insert[] 
- []
-
-
-Overfull \hbox (212.02838pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = 'SELECT P.*, IDcontract, Position FROM Persons P
- INNER JOIN Workers W ON P.ID = W.IDworker ORDER BY ID'[] 
- []
-
-
-Overfull \hbox (354.0187pt too wide) in paragraph at lines 1457--1457
-[]\T2A/cmtt/m/n/12 tab_classes.append([sg.Listbox([], key='listbox_classes_divi
-sions', size=(33, 20)), sg.Listbox([], key='listbox_classes', size=(33, 20))])[
-] 
- []
-
-
-Overfull \hbox (946.67398pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_classes.append([sg.Button('Добавить в занятие', key=
-'button_add_division_to_class'), sg.Button('Удалить с занятия', key='button_rem
-ove_division_from_class'), sg.Button('Показать дивизионы', key='button_show_cla
-ss_divisions')])[] 
- []
-
-
-Overfull \hbox (125.59949pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_classes.append([sg.InputText(key='inputtext_classes_
-theme', size=(30, 1)), sg.Text(u'Тема')])[] 
- []
-
-
-Overfull \hbox (162.64044pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_classes.append([sg.Combo([], key='combo_classes_memb
-er', size=(30, 1)), sg.Text(u'Преподаватель')])[] 
- []
-
-
-Overfull \hbox (341.67172pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_classes.append([sg.Button('Добавить занятие', key='b
-utton_add_class'), sg.Button('Удалить занятие', key='button_remove_class')])[] 
-
- []
-
-[38]
-Overfull \hbox (70.03806pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 tab_classes.append([sg.Button('Показать дивизионы', key=
-'button_show_class_divisions')])[] 
- []
-
-[39]
-Overfull \hbox (205.85489pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 cursor.execute('DELETE FROM AssocClassesDivisions WHERE 
-IDteam = ' + inddiv + ' AND ' + 'IDclass = ' + indcla)[] 
- []
-
-
-Overfull \hbox (205.85489pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 cursor.execute('DELETE FROM AssocClassesDivisions WHERE 
-IDteam = ' + inddiv + ' AND ' + 'IDclass = ' + indcla)[] 
- []
-
-
-Overfull \hbox (199.6814pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 cursor.execute('INSERT INTO AssocClassesDivisions (IDcla
-ss, IDteam) VALUES (' + indcla + ', ' + inddiv + ')')[] 
- []
-
-
-Overfull \hbox (360.1922pt too wide) in paragraph at lines 1457--1457
-[]    \T2A/cmtt/m/n/12 query = 'SELECT D.* FROM Divisions D INNER JOIN AssocCla
-ssesDivisions A ON D.ID = A.IDteam WHERE IDclass = ' + indclas + ' ORDER BY ID'
-[] 
- []
-
-[40] [41] [42] (otchet_db_Fadeev_BPM162.aux) ) 
+(FadeevLivshits_BPM162_AI_Course.aux) ) 
 Here is how much of TeX's memory you used:
- 18079 strings out of 492482
- 314855 string characters out of 3131019
- 468432 words of memory out of 3000000
- 22264 multiletter control sequences out of 15000+200000
- 542502 words of font info for 50 fonts, out of 3000000 for 9000
+ 16661 strings out of 492482
+ 294855 string characters out of 3131019
+ 452927 words of memory out of 3000000
+ 20868 multiletter control sequences out of 15000+200000
+ 542165 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,8n,67p,560b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\afadeev\AppData\Local\
-MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1200.pk> <C:\Users\afadeev\AppD
-ata\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\
-afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> 
-<C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lab
-x2488.pk> <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/
-dpi600\labx1728.pk> <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\larm1200.pk>
-Output written on otchet_db_Fadeev_BPM162.pdf (42 pages, 301472 bytes).
+ 44i,5n,67p,1205b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\afadeev\AppData\Local\MiKTeX\
+2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1200.pk> <C:\Users\afadeev\AppData\Loc
+al\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\afadeev\A
+ppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users
+\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk>
+ <C:\Users\afadeev\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+rm1200.pk>
+Output written on FadeevLivshits_BPM162_AI_Course.pdf (10 pages, 135422 bytes).
+
 PDF statistics:
- 548 PDF objects out of 1000 (max. 8388607)
+ 341 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
